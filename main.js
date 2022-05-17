@@ -53,12 +53,12 @@ const map = new ol.Map({
 const data = bulletPosition;
 
 var vectorLayer = new ol.layer.Vector({
-    source: new ol.source.Vector(),
-    style: new ol.style.Style({
-        image: new ol.style.Icon({
-            src: "logo.png"
-        })
-    })
+    source: new ol.source.Vector()
+    // style: new ol.style.Style({
+    //     image: new ol.style.Icon({
+    //         src: "logo.png"
+    //     })
+    // })
 });
 map.addLayer(vectorLayer);
 
