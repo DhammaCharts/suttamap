@@ -12,6 +12,19 @@
 // https://stackoverflow.com/questions/59772207/add-multiple-marker-to-a-vector-layer-efficiently
 // http://harrywood.co.uk/maps/examples/openlayers/marker-popups.view.html
 
+const deviceType = () => {
+    const ua = navigator.userAgent;
+    if (/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(ua)) {
+        return "tablet";
+    }
+    else if (/Mobile|Android|iP(hone|od)|IEMobile|BlackBerry|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini)/.test(ua)) {
+        return "mobile";
+    }
+    return "desktop";
+};
+
+// map
+
 const width = 3550;
 const height = 3550;
 
@@ -56,8 +69,8 @@ var vectorLayer = new ol.layer.Vector({
     source: new ol.source.Vector(),
     style: new ol.style.Style({
         image: new ol.style.Icon({
-          opacity: 1,
-          scale: 1,
+          opacity: 0.3,
+          scale: deviceType() == "desktop" ? 1 : 2,
           src: "logo2.png"
         })
     })
