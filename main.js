@@ -69,9 +69,9 @@ var vectorLayer = new ol.layer.Vector({
     source: new ol.source.Vector(),
     style: new ol.style.Style({
         image: new ol.style.Icon({
-          // opacity: 0.3,
+          opacity: 0.1,
           scale: deviceType() == "desktop" ? 1 : 2,
-          src: "logo.png"
+          src: "logo2.png"
         })
     })
 });
