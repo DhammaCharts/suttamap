@@ -12,6 +12,8 @@
 // https://stackoverflow.com/questions/59772207/add-multiple-marker-to-a-vector-layer-efficiently
 // http://harrywood.co.uk/maps/examples/openlayers/marker-popups.view.html
 
+// detect device for marker size //
+
 const deviceType = () => {
     const ua = navigator.userAgent;
     if (/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(ua)) {
@@ -39,6 +41,7 @@ const projection = new ol.proj.Projection({
   extent: extent,
 });
 
+// create map //
 
 const map = new ol.Map({
   layers: [
@@ -47,11 +50,6 @@ const map = new ol.Map({
         source: new ol.source.TileImage({
           url: 'maptiles/{z}/{y}/{x}.png'
         })
-    }),
-    new ol.layer.Tile({
-      extent: extent,
-
-      source: new ol.source.TileDebug(),
     })
   ],
   target: 'map',
@@ -60,14 +58,21 @@ const map = new ol.Map({
     center: ol.extent.getCenter(extent),
     center: [width/2 , height/2],
     zoom: 1,
-    maxZoom: 6,
+    maxZoom: 6
   }),
+
+  // use ctrl/cmd + drag for rotation //
+
   interactions: ol.interaction.defaults({altShiftDragRotate: false}).extend([
       new ol.interaction.DragRotate({condition: ol.events.condition.platformModifierKeyOnly})
    ])
 });
 
+// set data //
+
 const data = bulletPosition;
+
+// add marker layer //
 
 // icon with zoom https://stackoverflow.com/questions/56827391/changing-the-icon-size-with-map-zooming
 // rotate icon https://openlayers.org/en/latest/apidoc/module-ol_style_Image-ImageStyle.html
@@ -80,12 +85,14 @@ var vectorLayer = new ol.layer.Vector({
     style: new ol.style.Style({
         image: new ol.style.Circle({
           fill: fill,
-          stroke: stroke,
+          // stroke: stroke, // for debug
           radius: deviceType() == "desktop" ? 10 : 20
         })
     })
 });
 map.addLayer(vectorLayer);
+
+// add marker to map //
 
 for (let i = 0; i < data.length; i++) {
     vectorLayer.getSource().addFeature(new ol.Feature({
@@ -93,6 +100,8 @@ for (let i = 0; i < data.length; i++) {
         id : data[i].id
     }))
 }
+
+// popup behaviour //
 
 var container = document.getElementById('popup');
 var content = document.getElementById('popup-content');
