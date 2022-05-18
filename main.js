@@ -41,7 +41,7 @@ const map = new ol.Map({
     new ol.layer.Tile({
       extent: extent,
         source: new ol.source.TileImage({
-          url: 'maptiles5/{z}/{y}/{x}.png'
+          url: 'maptiles/{z}/{y}/{x}.png'
         })
     }),
     new ol.layer.Tile({
@@ -69,7 +69,7 @@ var vectorLayer = new ol.layer.Vector({
     source: new ol.source.Vector(),
     style: new ol.style.Style({
         image: new ol.style.Icon({
-          opacity: 0.1,
+          opacity: 0,
           scale: deviceType() == "desktop" ? 1 : 2,
           src: "logo2.png"
         })
