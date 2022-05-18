@@ -87,7 +87,7 @@ var vectorLayer = new ol.layer.Vector({
           fill: fill,
           stroke: stroke, // for debug
           radius : 10,
-          radius: deviceType() == "desktop" ? 10 : 6
+          radius: deviceType() == "desktop" ? 8 : 6
         })
     })
 });
@@ -98,7 +98,8 @@ map.addLayer(vectorLayer);
 for (let i = 0; i < data.length; i++) {
     vectorLayer.getSource().addFeature(new ol.Feature({
         geometry: new ol.geom.Point([data[i].x,data[i].y]),
-        id : data[i].id
+        id : data[i].id,
+        name : data[i].name
     }))
 }
 
@@ -148,7 +149,7 @@ map.on('singleclick', function (event) {
         //   });
 
         // window.open("https://suttacentral.net/"+data.id, '_blank');
-        content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.id + '</a>';
+        content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.name + '</a>';
         overlay.setPosition(coordinate);
     } else {
         overlay.setPosition(undefined);
