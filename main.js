@@ -14,16 +14,16 @@
 
 // detect device for marker size //
 
-const deviceType = () => {
-    const ua = navigator.userAgent;
-    if (/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(ua)) {
-        return "tablet";
-    }
-    else if (/Mobile|Android|iP(hone|od)|IEMobile|BlackBerry|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini)/.test(ua)) {
-        return "mobile";
-    }
-    return "desktop";
-};
+// const deviceType = () => {
+//     const ua = navigator.userAgent;
+//     if (/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(ua)) {
+//         return "tablet";
+//     }
+//     else if (/Mobile|Android|iP(hone|od)|IEMobile|BlackBerry|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini)/.test(ua)) {
+//         return "mobile";
+//     }
+//     return "desktop";
+// };
 
 // map
 
@@ -85,7 +85,7 @@ var vectorLayer = new ol.layer.Vector({
     style: new ol.style.Style({
         image: new ol.style.Circle({
           fill: fill,
-          stroke: stroke, // for debug
+          // stroke: stroke, // for debug
           radius : 8
           // radius: deviceType() == "desktop" ? 8 : 6
         })
@@ -149,7 +149,7 @@ map.on('singleclick', function (event) {
         //   });
 
         // window.open("https://suttacentral.net/"+data.id, '_blank');
-        content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.name + '</a>';
+        content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.name + '</a> <br> id = '+ dataMap.id ;
         overlay.setPosition(coordinate);
     } else {
         overlay.setPosition(undefined);
