@@ -86,8 +86,8 @@ var vectorLayer = new ol.layer.Vector({
         image: new ol.style.Circle({
           fill: fill,
           stroke: stroke, // for debug
-          radius : 10,
-          radius: deviceType() == "desktop" ? 8 : 6
+          radius : 8
+          // radius: deviceType() == "desktop" ? 8 : 6
         })
     })
 });
