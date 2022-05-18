@@ -25,8 +25,12 @@ const deviceType = () => {
 
 // map
 
+// create a SVG that is the same dimension as below first
+
 const width = 3550;
 const height = 3550;
+
+// then before tiling, PNG size needs to be a power of 2. If not, it is resized by vips and loose connection with coordinates.
 
 const extent = [0, 0, width, height];
 const projection = new ol.proj.Projection({
@@ -65,13 +69,19 @@ const map = new ol.Map({
 
 const data = bulletPosition;
 
+// icon with zoom https://stackoverflow.com/questions/56827391/changing-the-icon-size-with-map-zooming
+// rotate icon https://openlayers.org/en/latest/apidoc/module-ol_style_Image-ImageStyle.html
+
+const stroke = new ol.style.Stroke({color: 'black', width: 0.1});
+const fill = new ol.style.Fill({color: "rgba(0, 0, 0, 0)"});
+
 var vectorLayer = new ol.layer.Vector({
     source: new ol.source.Vector(),
     style: new ol.style.Style({
-        image: new ol.style.Icon({
-          opacity: 0,
-          scale: deviceType() == "desktop" ? 1 : 2,
-          src: "logo2.png"
+        image: new ol.style.Circle({
+          fill: fill,
+          stroke: stroke,
+          radius: deviceType() == "desktop" ? 10 : 20
         })
     })
 });
