@@ -14,16 +14,16 @@
 
 // detect device for marker size //
 
-// const deviceType = () => {
-//     const ua = navigator.userAgent;
-//     if (/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(ua)) {
-//         return "tablet";
-//     }
-//     else if (/Mobile|Android|iP(hone|od)|IEMobile|BlackBerry|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini)/.test(ua)) {
-//         return "mobile";
-//     }
-//     return "desktop";
-// };
+const deviceType = () => {
+    const ua = navigator.userAgent;
+    if (/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(ua)) {
+        return "tablet";
+    }
+    else if (/Mobile|Android|iP(hone|od)|IEMobile|BlackBerry|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini)/.test(ua)) {
+        return "mobile";
+    }
+    return "desktop";
+};
 
 // map
 
@@ -85,9 +85,9 @@ var vectorLayer = new ol.layer.Vector({
     style: new ol.style.Style({
         image: new ol.style.Circle({
           fill: fill,
-          // stroke: stroke, // for debug
-          radius : 10
-          // radius: deviceType() == "desktop" ? 10 : 20
+          stroke: stroke, // for debug
+          radius : 10,
+          radius: deviceType() == "desktop" ? 10 : 6
         })
     })
 });
