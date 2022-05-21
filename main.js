@@ -153,7 +153,7 @@ map.on("pointermove", function (e) {
     });
     if (hit) {
         this.getTargetElement().style.cursor = 'pointer';
-        console.log(this.getFeaturesAtPixel());
+        // console.log(this.getFeaturesAtPixel());
         this.getTargetElement().style.fill = 'black';
     } else {
         this.getTargetElement().style.cursor = '';
