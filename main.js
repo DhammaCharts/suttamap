@@ -1,5 +1,5 @@
 // to make PNGtiles
-// vips dzsave suttapitaka.png  mapdir --layout google --centre --suffix .png
+// vips dzsave tn_sutta12.png  maptiles6 --layout google --centre --suffix .png
 // padding problem https://stackoverflow.com/questions/56265393/libvips-and-padding-when-doing-image-pyramids
 // vips gravity sutta.png south-west 8192 8192 --extend white
 // vips gravity sutta.png centre 8192 8192 --extend white
@@ -48,7 +48,7 @@ const map = new ol.Map({
     new ol.layer.Tile({
       extent: extent,
         source: new ol.source.TileImage({
-          url: 'maptiles/{z}/{y}/{x}.png'
+          url: 'maptiles6/{z}/{y}/{x}.png'
         })
     })
   ],
@@ -74,8 +74,6 @@ const data = bulletPosition;
 
 // add marker layer //
 
-// icon with zoom https://stackoverflow.com/questions/56827391/changing-the-icon-size-with-map-zooming
-// rotate icon https://openlayers.org/en/latest/apidoc/module-ol_style_Image-ImageStyle.html
 
 const stroke = new ol.style.Stroke({color: 'black', width: 0.1});
 const fill = new ol.style.Fill({color: "rgba(0, 0, 0, 0)"});
@@ -87,7 +85,6 @@ var vectorLayer = new ol.layer.Vector({
           fill: fill,
           // stroke: stroke, // for debug
           radius : 8
-          // radius: deviceType() == "desktop" ? 8 : 6
         })
     })
 });
@@ -124,14 +121,20 @@ closer.onclick = function() {
     return false;
 };
 
-map.on("pointermove", function (evt) {
-    var hit = this.forEachFeatureAtPixel(evt.pixel, function(feature, layer) {
+map.on("pointermove", function (e) {
+
+    // pointer
+
+    var hit = this.forEachFeatureAtPixel(e.pixel, function(feature, layer) {
         return true;
     });
     if (hit) {
         this.getTargetElement().style.cursor = 'pointer';
+        console.log(this.getFeaturesAtPixel());
+        this.getTargetElement().style.fill = 'black';
     } else {
         this.getTargetElement().style.cursor = '';
+        this.getTargetElement().style.fill = '';
     }
 });
 
@@ -140,15 +143,6 @@ map.on('singleclick', function (event) {
     if (map.hasFeatureAtPixel(event.pixel) === true) {
         var coordinate = event.coordinate;
         const dataMap = map.getFeaturesAtPixel(event.pixel)[0].A;
-
-        // fetch('https://suttacentral.net/api/suttas/'+dataMap.id+'.json')
-        //   .then(response => response.json())
-        //   .then(data => {
-        //     content.innerHTML = '<a target="_blank" href="https://suttacentral.net/"' + dataMap.id + '>' + data + '</a>';
-        //     overlay.setPosition(coordinate);
-        //   });
-
-        // window.open("https://suttacentral.net/"+data.id, '_blank');
         content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.name + '</a> <br> id = '+ dataMap.id ;
         overlay.setPosition(coordinate);
     } else {
