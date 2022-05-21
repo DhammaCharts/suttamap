@@ -1,6 +1,9 @@
+// to resize
+// vips dzsave tn_sutta12.png  maptiles6 --layout google --centre --suffix .png
 // to make PNGtiles
 // vips dzsave tn_sutta12.png  maptiles6 --layout google --centre --suffix .png
 // padding problem https://stackoverflow.com/questions/56265393/libvips-and-padding-when-doing-image-pyramids
+// To extend with white
 // vips gravity sutta.png south-west 8192 8192 --extend white
 // vips gravity sutta.png centre 8192 8192 --extend white
 // Map views always need a projection.  Here we just want to map image
