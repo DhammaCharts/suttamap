@@ -44,6 +44,38 @@ const projection = new ol.proj.Projection({
   extent: extent,
 });
 
+
+// popup behaviour //
+
+/**
+ * Elements that make up the popup.
+ */
+const container = document.getElementById('popup');
+const content = document.getElementById('popup-content');
+const closer = document.getElementById('popup-closer');
+
+/**
+ * Create an overlay to anchor the popup to the map.
+ */
+const overlay = new ol.Overlay({
+  element: container,
+  autoPan: {
+    animation: {
+      duration: 250,
+    },
+  },
+});
+
+/**
+ * Add a click handler to hide the popup.
+ * @return {boolean} Don't follow the href.
+ */
+closer.onclick = function () {
+  overlay.setPosition(undefined);
+  closer.blur();
+  return false;
+};
+
 // create map //
 
 const map = new ol.Map({
@@ -55,6 +87,12 @@ const map = new ol.Map({
         })
     })
   ],
+  overlays: [overlay],
+  target: 'map',
+  view: new ol.View({
+    center: [0, 0],
+    zoom: 2,
+  }),
   target: 'map',
   view: new ol.View({
     projection: projection,
@@ -105,26 +143,6 @@ for (let i = 0; i < data.length; i++) {
     }))
 }
 
-// popup behaviour //
-
-var container = document.getElementById('popup');
-var content = document.getElementById('popup-content');
-var closer = document.getElementById('popup-closer');
-
-var overlay = new ol.Overlay({
-    element: container,
-    autoPan: true,
-    autoPanAnimation: {
-        duration: 250
-    }
-});
-map.addOverlay(overlay);
-
-closer.onclick = function() {
-    overlay.setPosition(undefined);
-    closer.blur();
-    return false;
-};
 
 map.on("pointermove", function (e) {
 
