@@ -57,7 +57,7 @@ bulletPosition = [
         "y": 1935,
         "id": "test2",
         "name": "",
-        "color": "rgb(214, 169, 205)",
+        "color": "hsl(312,35%,50%)",
         "radius": 0
     },
     {
@@ -264,7 +264,7 @@ bulletPosition = [
         "id": "dn1",
         "name": "DN 1 : Brahmajālasutta",
         "nameEn": "DN 1 : The Prime Net ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -273,7 +273,7 @@ bulletPosition = [
         "id": "dn2",
         "name": "DN 2 : Sāmaññaphalasutta",
         "nameEn": "DN 2 : The Fruits of the Ascetic Life ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -282,7 +282,7 @@ bulletPosition = [
         "id": "dn3",
         "name": "DN 3 : Ambaṭṭhasutta",
         "nameEn": "DN 3 : With Ambaṭṭha ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -291,7 +291,7 @@ bulletPosition = [
         "id": "dn4",
         "name": "DN 4 : Soṇadaṇḍasutta",
         "nameEn": "DN 4 : With Soṇadaṇḍa ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -300,7 +300,7 @@ bulletPosition = [
         "id": "dn5",
         "name": "DN 5 : Kūṭadantasutta",
         "nameEn": "DN 5 : With Kūṭadanta ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -309,7 +309,7 @@ bulletPosition = [
         "id": "dn6",
         "name": "DN 6 : Mahālisutta",
         "nameEn": "DN 6 : With Mahāli ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -318,7 +318,7 @@ bulletPosition = [
         "id": "dn7",
         "name": "DN 7 : Jāliyasutta",
         "nameEn": "DN 7 : With Jāliya ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -327,7 +327,7 @@ bulletPosition = [
         "id": "dn8",
         "name": "DN 8 : Mahāsīhanādasutta",
         "nameEn": "DN 8 : The Longer Discourse on the Lion’s Roar ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -336,7 +336,7 @@ bulletPosition = [
         "id": "dn9",
         "name": "DN 9 : Poṭṭhapādasutta",
         "nameEn": "DN 9 : With Poṭṭhapāda ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -345,7 +345,7 @@ bulletPosition = [
         "id": "dn10",
         "name": "DN 10 : Subhasutta",
         "nameEn": "DN 10 : With Subha ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -354,7 +354,7 @@ bulletPosition = [
         "id": "dn11",
         "name": "DN 11 : Kevaṭṭasutta",
         "nameEn": "DN 11 : With Kevaddha ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -363,7 +363,7 @@ bulletPosition = [
         "id": "dn12",
         "name": "DN 12 : Lohiccasutta",
         "nameEn": "DN 12 : With Lohicca ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -372,7 +372,7 @@ bulletPosition = [
         "id": "dn13",
         "name": "DN 13 : Tevijjasutta",
         "nameEn": "DN 13 : The Three Knowledges ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -381,7 +381,7 @@ bulletPosition = [
         "id": "dn14",
         "name": "DN 14 : Mahāpadānasutta",
         "nameEn": "DN 14 : The Great Discourse on the Harvest of Deeds ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -390,7 +390,7 @@ bulletPosition = [
         "id": "dn15",
         "name": "DN 15 : Mahānidānasutta",
         "nameEn": "DN 15 : The Great Discourse on Causation ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -399,7 +399,7 @@ bulletPosition = [
         "id": "dn16",
         "name": "DN 16 : Mahāparinibbānasutta",
         "nameEn": "DN 16 : The Great Discourse on the Buddha’s Extinguishment ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -408,7 +408,7 @@ bulletPosition = [
         "id": "dn17",
         "name": "DN 17 : Mahāsudassanasutta",
         "nameEn": "DN 17 : King Mahāsudassana ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -417,7 +417,7 @@ bulletPosition = [
         "id": "dn18",
         "name": "DN 18 : Janavasabhasutta",
         "nameEn": "DN 18 : With Janavasabha ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -426,7 +426,7 @@ bulletPosition = [
         "id": "dn19",
         "name": "DN 19 : Mahāgovindasutta",
         "nameEn": "DN 19 : The Great Steward ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -435,7 +435,7 @@ bulletPosition = [
         "id": "dn20",
         "name": "DN 20 : Mahāsamayasutta",
         "nameEn": "DN 20 : The Great Congregation ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -444,7 +444,7 @@ bulletPosition = [
         "id": "dn21",
         "name": "DN 21 : Sakkapañhasutta",
         "nameEn": "DN 21 : Sakka’s Questions ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -453,7 +453,7 @@ bulletPosition = [
         "id": "dn22",
         "name": "DN 22 : Mahāsatipaṭṭhānasutta",
         "nameEn": "DN 22 : The Longer Discourse on Mindfulness Meditation ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -462,7 +462,7 @@ bulletPosition = [
         "id": "dn23",
         "name": "DN 23 : Pāyāsisutta",
         "nameEn": "DN 23 : With Pāyāsi ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -471,7 +471,7 @@ bulletPosition = [
         "id": "dn24",
         "name": "DN 24 : Pāthikasutta",
         "nameEn": "DN 24 : About Pāṭikaputta ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -480,7 +480,7 @@ bulletPosition = [
         "id": "dn25",
         "name": "DN 25 : Udumbarikasutta",
         "nameEn": "DN 25 : The Lion’s Roar at Udumbarikā’s Monastery ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -489,7 +489,7 @@ bulletPosition = [
         "id": "dn26",
         "name": "DN 26 : Cakkavattisutta",
         "nameEn": "DN 26 : The Wheel-Turning Monarch",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -498,7 +498,7 @@ bulletPosition = [
         "id": "dn27",
         "name": "DN 27 : Aggaññasutta",
         "nameEn": "DN 27 : The Origin of the World ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -507,7 +507,7 @@ bulletPosition = [
         "id": "dn28",
         "name": "DN 28 : Sampasādanīyasutta",
         "nameEn": "DN 28 : Inspiring Confidence ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -516,7 +516,7 @@ bulletPosition = [
         "id": "dn29",
         "name": "DN 29 : Pāsādikasutta",
         "nameEn": "DN 29 : An Impressive Discourse ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -525,7 +525,7 @@ bulletPosition = [
         "id": "dn30",
         "name": "DN 30 : Lakkhaṇasutta",
         "nameEn": "DN 30 : The Marks of a Great Man ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -534,7 +534,7 @@ bulletPosition = [
         "id": "dn31",
         "name": "DN 31 : Siṅgālasutta",
         "nameEn": "DN 31 : Advice to Sigālaka ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -543,7 +543,7 @@ bulletPosition = [
         "id": "dn32",
         "name": "DN 32 : Āṭānāṭiyasutta",
         "nameEn": "DN 32 : The Āṭānāṭiya Protection ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -552,7 +552,7 @@ bulletPosition = [
         "id": "dn33",
         "name": "DN 33 : Saṅgītisutta",
         "nameEn": "DN 33 : Reciting in Concert ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -561,7 +561,7 @@ bulletPosition = [
         "id": "dn34",
         "name": "DN 34 : Dasuttarasutta",
         "nameEn": "DN 34 : Up to Ten ",
-        "color": "rgb(214, 179, 169)",
+        "color": "hsl(373.2,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1209,7 +1209,7 @@ bulletPosition = [
         "id": "an1-cittapariyadanavagga",
         "name": "AN 1.1–10 : Cittapariyādānavagga",
         "nameEn": "AN 1.1–10 : What Occupies the Mind",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1218,7 +1218,7 @@ bulletPosition = [
         "id": "an1-nivaranappahanavagga",
         "name": "AN 1.11–20 : Nīvaraṇappahāṇavagga",
         "nameEn": "AN 1.11–20 : Giving Up the Hindrances ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1227,7 +1227,7 @@ bulletPosition = [
         "id": "an1-akammaniyavagga",
         "name": "AN 1.21–30 : Akammaniyavagga",
         "nameEn": "AN 1.21–30 : Useless",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1236,7 +1236,7 @@ bulletPosition = [
         "id": "an1-adantavagga",
         "name": "AN 1.31–40 : Adantavagga",
         "nameEn": "AN 1.31–40 : Wild ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1245,7 +1245,7 @@ bulletPosition = [
         "id": "an1-panihitaacchavagga",
         "name": "AN 1.41–50 : Paṇihitaacchavagga",
         "nameEn": "AN 1.41–50 : A Spike ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1254,7 +1254,7 @@ bulletPosition = [
         "id": "an1-accharasanghatavagga",
         "name": "AN 1.51–60 : Accharāsaṅghātavagga",
         "nameEn": "AN 1.51–60 : Finger Snap",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1263,7 +1263,7 @@ bulletPosition = [
         "id": "an1-viriyarambhadivagga",
         "name": "AN 1.61–70 : Vīriyārambhādivagga",
         "nameEn": "AN 1.61–70 : Arousing Energy",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1272,7 +1272,7 @@ bulletPosition = [
         "id": "an1-kalyanamittadivagga",
         "name": "AN 1.71–81 : Kalyāṇamittādivagga",
         "nameEn": "AN 1.71–81 : Good Friends",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1281,7 +1281,7 @@ bulletPosition = [
         "id": "an1-pamadadivagga",
         "name": "AN 1.82–97 : Pamādādivagga",
         "nameEn": "AN 1.82–97 : Negligence ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1290,7 +1290,7 @@ bulletPosition = [
         "id": "an1-dutiyapamadadivagga",
         "name": "AN 1.98–139 : Dutiyapamādādivagga",
         "nameEn": "AN 1.98–139 : Negligence (2nd)",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1299,7 +1299,7 @@ bulletPosition = [
         "id": "an1-adhammavagga",
         "name": "AN 1.140–149 : Adhammavagga",
         "nameEn": "AN 1.140–149 : Not the Teaching",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1308,7 +1308,7 @@ bulletPosition = [
         "id": "an1-anapattivagga",
         "name": "AN 1.150–169 : Anāpattivagga",
         "nameEn": "AN 1.150–169 : Non-offense",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1317,7 +1317,7 @@ bulletPosition = [
         "id": "an1-ekapuggalavagga",
         "name": "AN 1.170–187 : Ekapuggalavagga",
         "nameEn": "AN 1.170–187 : One Person ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1326,7 +1326,7 @@ bulletPosition = [
         "id": "an1-etadaggavagga",
         "name": "AN 1.188–267 : Etadaggavagga",
         "nameEn": "AN 1.188–267 : Foremost",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1335,7 +1335,7 @@ bulletPosition = [
         "id": "an1-atthana",
         "name": "AN 1.268–295 : Aṭṭhānavagga",
         "nameEn": "AN 1.268–295 : Impossible",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1344,7 +1344,7 @@ bulletPosition = [
         "id": "an1-ekadhamma",
         "name": "AN 1.296–377 : Ekadhammavagga",
         "nameEn": "AN 1.296–377 : One Thing ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1353,7 +1353,7 @@ bulletPosition = [
         "id": "an1-pasadakaradhammavagga",
         "name": "AN 1.378–393 : Pasādakaradhammavagga",
         "nameEn": "AN 1.378–393 : Inspiring Qualities",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1362,7 +1362,7 @@ bulletPosition = [
         "id": "an1-aparaaccharasanghatavagga",
         "name": "AN 1.394–574 : Aparaaccharāsaṅghātavagga",
         "nameEn": "AN 1.394–574 : Another Chapter on a Finger Snap",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1371,7 +1371,7 @@ bulletPosition = [
         "id": "an1-kayagatasativagga",
         "name": "AN 1.575–615 : Kāyagatāsativagga",
         "nameEn": "AN 1.575–615 : Mindfulness of the Body",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1380,7 +1380,7 @@ bulletPosition = [
         "id": "an1-amatavagga",
         "name": "AN 1.616–627 : Amatavagga",
         "nameEn": "AN 1.616–627 : The Deathless ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1659,7 +1659,7 @@ bulletPosition = [
         "id": "mn1",
         "name": "MN 1 : Mūlapariyāyasutta",
         "nameEn": "MN 1 : The Root of All Things ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1668,7 +1668,7 @@ bulletPosition = [
         "id": "mn2",
         "name": "MN 2 : Sabbāsavasutta",
         "nameEn": "MN 2 : All the Defilements ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1677,7 +1677,7 @@ bulletPosition = [
         "id": "mn3",
         "name": "MN 3 : Dhammadāyādasutta",
         "nameEn": "MN 3 : Heirs in the Teaching ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1686,7 +1686,7 @@ bulletPosition = [
         "id": "mn4",
         "name": "MN 4 : Bhayabheravasutta",
         "nameEn": "MN 4 : Fear and Dread ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1695,7 +1695,7 @@ bulletPosition = [
         "id": "mn5",
         "name": "MN 5 : Anaṅgaṇasutta",
         "nameEn": "MN 5 : Unblemished ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1704,7 +1704,7 @@ bulletPosition = [
         "id": "mn6",
         "name": "MN 6 : Ākaṅkheyyasutta",
         "nameEn": "MN 6 : One Might Wish ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1713,7 +1713,7 @@ bulletPosition = [
         "id": "mn7",
         "name": "MN 7 : Vatthasutta",
         "nameEn": "MN 7 : The Simile of the Cloth ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1722,7 +1722,7 @@ bulletPosition = [
         "id": "mn8",
         "name": "MN 8 : Sallekhasutta",
         "nameEn": "MN 8 : Self-Effacement ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1731,7 +1731,7 @@ bulletPosition = [
         "id": "mn9",
         "name": "MN 9 : Sammādiṭṭhisutta",
         "nameEn": "MN 9 : Right View ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1740,7 +1740,7 @@ bulletPosition = [
         "id": "mn10",
         "name": "MN 10 : Mahāsatipaṭṭhānasutta",
         "nameEn": "MN 10 : The Discourse on Mindfulness Meditation ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1749,7 +1749,7 @@ bulletPosition = [
         "id": "mn11",
         "name": "MN 11 : Cūḷasīhanādasutta",
         "nameEn": "MN 11 : The Shorter Discourse on the Lion’s Roar ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1758,7 +1758,7 @@ bulletPosition = [
         "id": "mn12",
         "name": "MN 12 : Mahāsīhanādasutta",
         "nameEn": "MN 12 : The Longer Discourse on the Lion’s Roar ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1767,7 +1767,7 @@ bulletPosition = [
         "id": "mn13",
         "name": "MN 13 : Mahādukkhakkhandhasutta",
         "nameEn": "MN 13 : The Longer Discourse on the Mass of Suffering ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1776,7 +1776,7 @@ bulletPosition = [
         "id": "mn14",
         "name": "MN 14 : Cūḷadukkhakkhandhasutta",
         "nameEn": "MN 14 : The Shorter Discourse on the Mass of Suffering ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1785,7 +1785,7 @@ bulletPosition = [
         "id": "mn15",
         "name": "MN 15 : Anumānasutta",
         "nameEn": "MN 15 : Measuring Up ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1794,7 +1794,7 @@ bulletPosition = [
         "id": "mn16",
         "name": "MN 16 : Cetokhilasutta",
         "nameEn": "MN 16 : Emotional Barrenness ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1803,7 +1803,7 @@ bulletPosition = [
         "id": "mn17",
         "name": "MN 17 : Vanapatthasutta",
         "nameEn": "MN 17 : Jungle Thickets ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1812,7 +1812,7 @@ bulletPosition = [
         "id": "mn18",
         "name": "MN 18 : Madhupiṇḍikasutta",
         "nameEn": "MN 18 : The Honey-Cake ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1821,7 +1821,7 @@ bulletPosition = [
         "id": "mn19",
         "name": "MN 19 : Dvedhāvitakkasutta",
         "nameEn": "MN 19 : Two Kinds of Thought ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1830,7 +1830,7 @@ bulletPosition = [
         "id": "mn20",
         "name": "MN 20 : Vitakkasaṇṭhānasutta",
         "nameEn": "MN 20 : How to Stop Thinking ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1839,7 +1839,7 @@ bulletPosition = [
         "id": "mn21",
         "name": "MN 21 : Kakacūpamasutta",
         "nameEn": "MN 21 : The Simile of the Saw ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1848,7 +1848,7 @@ bulletPosition = [
         "id": "mn22",
         "name": "MN 22 : Alagaddūpamasutta",
         "nameEn": "MN 22 : The Simile of the Snake ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1857,7 +1857,7 @@ bulletPosition = [
         "id": "mn23",
         "name": "MN 23 : Vammikasutta",
         "nameEn": "MN 23 : The Ant-Hill ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1866,7 +1866,7 @@ bulletPosition = [
         "id": "mn24",
         "name": "MN 24 : Rathavinītasutta",
         "nameEn": "MN 24 : Prepared Chariots ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1875,7 +1875,7 @@ bulletPosition = [
         "id": "mn25",
         "name": "MN 25 : Nivāpasutta",
         "nameEn": "MN 25 : Fodder ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1884,7 +1884,7 @@ bulletPosition = [
         "id": "mn26",
         "name": "MN 26 : Pāsarāsisutta",
         "nameEn": "MN 26 : The Noble Search ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1893,7 +1893,7 @@ bulletPosition = [
         "id": "mn27",
         "name": "MN 27 : Cūḷahatthipadopamasutta",
         "nameEn": "MN 27 : The Shorter Elephant’s Footprint Simile ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1902,7 +1902,7 @@ bulletPosition = [
         "id": "mn28",
         "name": "MN 28 : Mahāhatthipadopamasutta",
         "nameEn": "MN 28 : The Longer Simile of the Elephant’s Footprint ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1911,7 +1911,7 @@ bulletPosition = [
         "id": "mn29",
         "name": "MN 29 : Mahāsāropamasutta",
         "nameEn": "MN 29 : The Longer Simile of the Heartwood ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1920,7 +1920,7 @@ bulletPosition = [
         "id": "mn30",
         "name": "MN 30 : Cūḷasāropamasutta",
         "nameEn": "MN 30 : The Shorter Simile of the Heartwood ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1929,7 +1929,7 @@ bulletPosition = [
         "id": "mn31",
         "name": "MN 31 : Cūḷagosiṅgasutta",
         "nameEn": "MN 31 : The Shorter Discourse at Gosiṅga ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1938,7 +1938,7 @@ bulletPosition = [
         "id": "mn32",
         "name": "MN 32 : Mahāgosiṅgasutta",
         "nameEn": "MN 32 : The Longer Discourse at Gosiṅga ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1947,7 +1947,7 @@ bulletPosition = [
         "id": "mn33",
         "name": "MN 33 : Mahāgopālakasutta",
         "nameEn": "MN 33 : The Longer Discourse on the Cowherd ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1956,7 +1956,7 @@ bulletPosition = [
         "id": "mn34",
         "name": "MN 34 : Cūḷagopālakasutta",
         "nameEn": "MN 34 : The Shorter Discourse on the Cowherd ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1965,7 +1965,7 @@ bulletPosition = [
         "id": "mn35",
         "name": "MN 35 : Cūḷasaccakasutta",
         "nameEn": "MN 35 : The Shorter Discourse With Saccaka ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1974,7 +1974,7 @@ bulletPosition = [
         "id": "mn36",
         "name": "MN 36 : Mahāsaccakasutta",
         "nameEn": "MN 36 : The Longer Discourse With Saccaka ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1983,7 +1983,7 @@ bulletPosition = [
         "id": "mn37",
         "name": "MN 37 : Cūḷataṇhāsaṅkhayasutta",
         "nameEn": "MN 37 : The Shorter Discourse on the Ending of Craving ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -1992,7 +1992,7 @@ bulletPosition = [
         "id": "mn38",
         "name": "MN 38 : Mahātaṇhāsaṅkhayasutta",
         "nameEn": "MN 38 : The Longer Discourse on the Ending of Craving ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2001,7 +2001,7 @@ bulletPosition = [
         "id": "mn39",
         "name": "MN 39 : Mahāassapurasutta",
         "nameEn": "MN 39 : The Longer Discourse at Assapura ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2010,7 +2010,7 @@ bulletPosition = [
         "id": "mn40",
         "name": "MN 40 : Cūḷaassapurasutta",
         "nameEn": "MN 40 : The Shorter Discourse at Assapura ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2019,7 +2019,7 @@ bulletPosition = [
         "id": "mn41",
         "name": "MN 41 : Sāleyyakasutta",
         "nameEn": "MN 41 : The People of Sālā ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2028,7 +2028,7 @@ bulletPosition = [
         "id": "mn42",
         "name": "MN 42 : Verañjakasutta",
         "nameEn": "MN 42 : The People of Verañja ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2037,7 +2037,7 @@ bulletPosition = [
         "id": "mn43",
         "name": "MN 43 : Mahāvedallasutta",
         "nameEn": "MN 43 : The Great Classification ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2046,7 +2046,7 @@ bulletPosition = [
         "id": "mn44",
         "name": "MN 44 : Cūḷavedallasutta",
         "nameEn": "MN 44 : The Shorter Classification ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2055,7 +2055,7 @@ bulletPosition = [
         "id": "mn45",
         "name": "MN 45 : Cūḷadhammasamādānasutta",
         "nameEn": "MN 45 : The Shorter Discourse on Taking Up Practices ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2064,7 +2064,7 @@ bulletPosition = [
         "id": "mn46",
         "name": "MN 46 : Mahādhammasamādānasutta",
         "nameEn": "MN 46 : The Great Discourse on Taking Up Practices ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2073,7 +2073,7 @@ bulletPosition = [
         "id": "mn47",
         "name": "MN 47 : Vīmaṁsakasutta",
         "nameEn": "MN 47 : The Inquirer ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2082,7 +2082,7 @@ bulletPosition = [
         "id": "mn48",
         "name": "MN 48 : Kosambiyasutta",
         "nameEn": "MN 48 : The Mendicants of Kosambi ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2091,7 +2091,7 @@ bulletPosition = [
         "id": "mn49",
         "name": "MN 49 : Brahmanimantanikasutta",
         "nameEn": "MN 49 : On the Invitation of Brahmā ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2100,7 +2100,7 @@ bulletPosition = [
         "id": "mn50",
         "name": "MN 50 : Māratajjanīyasutta",
         "nameEn": "MN 50 : The Rebuke of Māra ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2109,7 +2109,7 @@ bulletPosition = [
         "id": "mn51",
         "name": "MN 51 : Kandarakasutta",
         "nameEn": "MN 51 : With Kandaraka ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2118,7 +2118,7 @@ bulletPosition = [
         "id": "mn52",
         "name": "MN 52 : Aṭṭhakanāgarasutta",
         "nameEn": "MN 52 : The Man From the City of Aṭṭhaka ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2127,7 +2127,7 @@ bulletPosition = [
         "id": "mn53",
         "name": "MN 53 : Sekhasutta",
         "nameEn": "MN 53 : A Trainee ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2136,7 +2136,7 @@ bulletPosition = [
         "id": "mn54",
         "name": "MN 54 : Potaliyasutta",
         "nameEn": "MN 54 : With Potaliya the Wanderer ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2145,7 +2145,7 @@ bulletPosition = [
         "id": "mn55",
         "name": "MN 55 : Jīvakasutta",
         "nameEn": "MN 55 : With Jīvaka ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2154,7 +2154,7 @@ bulletPosition = [
         "id": "mn56",
         "name": "MN 56 : Upālisutta",
         "nameEn": "MN 56 : With Upāli ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2163,7 +2163,7 @@ bulletPosition = [
         "id": "mn57",
         "name": "MN 57 : Kukkuravatikasutta",
         "nameEn": "MN 57 : The Ascetic Who Behaved Like a Dog ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2172,7 +2172,7 @@ bulletPosition = [
         "id": "mn58",
         "name": "MN 58 : Abhayarājakumārasutta",
         "nameEn": "MN 58 : With Prince Abhaya ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2181,7 +2181,7 @@ bulletPosition = [
         "id": "mn59",
         "name": "MN 59 : Bahuvedanīyasutta",
         "nameEn": "MN 59 : The Many Kinds of Feeling ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2190,7 +2190,7 @@ bulletPosition = [
         "id": "mn60",
         "name": "MN 60 : Apaṇṇakasutta",
         "nameEn": "MN 60 : Guaranteed ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2199,7 +2199,7 @@ bulletPosition = [
         "id": "mn61",
         "name": "MN 61 : Ambalaṭṭhikarāhulovādasutta",
         "nameEn": "MN 61 : Advice to Rāhula at Ambalaṭṭhika ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2208,7 +2208,7 @@ bulletPosition = [
         "id": "mn62",
         "name": "MN 62 : Mahārāhulovādasutta",
         "nameEn": "MN 62 : The Longer Advice to Rāhula ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2217,7 +2217,7 @@ bulletPosition = [
         "id": "mn63",
         "name": "MN 63 : Cūḷamālukyasutta",
         "nameEn": "MN 63 : The Shorter Discourse With Māluṅkya ",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2226,7 +2226,7 @@ bulletPosition = [
         "id": "mn64",
         "name": "MN 64 : Mahāmālukyasutta",
         "nameEn": "MN 64 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2235,7 +2235,7 @@ bulletPosition = [
         "id": "mn65",
         "name": "MN 65 : Bhaddālisutta",
         "nameEn": "MN 65 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2244,7 +2244,7 @@ bulletPosition = [
         "id": "mn66",
         "name": "MN 66 : Laṭukikopamasutta",
         "nameEn": "MN 66 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2253,7 +2253,7 @@ bulletPosition = [
         "id": "mn67",
         "name": "MN 67 : Cātumasutta",
         "nameEn": "MN 67 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2262,7 +2262,7 @@ bulletPosition = [
         "id": "mn68",
         "name": "MN 68 : Naḷakapānasutta",
         "nameEn": "MN 68 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2271,7 +2271,7 @@ bulletPosition = [
         "id": "mn69",
         "name": "MN 69 : Goliyānisutta",
         "nameEn": "MN 69 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2280,7 +2280,7 @@ bulletPosition = [
         "id": "mn70",
         "name": "MN 70 : Kīṭāgirisutta",
         "nameEn": "MN 70 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2289,7 +2289,7 @@ bulletPosition = [
         "id": "mn71",
         "name": "MN 71 : Tevijjavacchasutta",
         "nameEn": "MN 71 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2298,7 +2298,7 @@ bulletPosition = [
         "id": "mn72",
         "name": "MN 72 : Aggivacchasutta",
         "nameEn": "MN 72 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2307,7 +2307,7 @@ bulletPosition = [
         "id": "mn73",
         "name": "MN 73 : Mahāvacchasutta",
         "nameEn": "MN 73 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2316,7 +2316,7 @@ bulletPosition = [
         "id": "mn74",
         "name": "MN 74 : Dīghanakhasutta",
         "nameEn": "MN 74 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2325,7 +2325,7 @@ bulletPosition = [
         "id": "mn75",
         "name": "MN 75 : Māgaṇḍiyasutta",
         "nameEn": "MN 75 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2334,7 +2334,7 @@ bulletPosition = [
         "id": "mn76",
         "name": "MN 76 : Sandakasutta",
         "nameEn": "MN 76 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2343,7 +2343,7 @@ bulletPosition = [
         "id": "mn77",
         "name": "MN 77 : Mahāsakuludāyisutta",
         "nameEn": "MN 77 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2352,7 +2352,7 @@ bulletPosition = [
         "id": "mn78",
         "name": "MN 78 : Samaṇamuṇḍikasutta",
         "nameEn": "MN 78 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2361,7 +2361,7 @@ bulletPosition = [
         "id": "mn79",
         "name": "MN 79 : Cūḷasakuludāyisutta",
         "nameEn": "MN 79 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2370,7 +2370,7 @@ bulletPosition = [
         "id": "mn80",
         "name": "MN 80 : Vekhanasasutta",
         "nameEn": "MN 80 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2379,7 +2379,7 @@ bulletPosition = [
         "id": "mn81",
         "name": "MN 81 : Ghaṭikārasutta",
         "nameEn": "MN 81 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2388,7 +2388,7 @@ bulletPosition = [
         "id": "mn82",
         "name": "MN 82 : Raṭṭhapālasutta",
         "nameEn": "MN 82 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2397,7 +2397,7 @@ bulletPosition = [
         "id": "mn83",
         "name": "MN 83 : Maghadevasutta",
         "nameEn": "MN 83 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2406,7 +2406,7 @@ bulletPosition = [
         "id": "mn84",
         "name": "MN 84 : Madhurasutta",
         "nameEn": "MN 84 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2415,7 +2415,7 @@ bulletPosition = [
         "id": "mn85",
         "name": "MN 85 : Bodhirājakumārasutta",
         "nameEn": "MN 85 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2424,7 +2424,7 @@ bulletPosition = [
         "id": "mn86",
         "name": "MN 86 : Aṅgulimālasutta",
         "nameEn": "MN 86 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2433,7 +2433,7 @@ bulletPosition = [
         "id": "mn87",
         "name": "MN 87 : Piyajātikasutta",
         "nameEn": "MN 87 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2442,7 +2442,7 @@ bulletPosition = [
         "id": "mn88",
         "name": "MN 88 : Bāhitikasutta",
         "nameEn": "MN 88 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2451,7 +2451,7 @@ bulletPosition = [
         "id": "mn89",
         "name": "MN 89 : Dhammacetiyasutta",
         "nameEn": "MN 89 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2460,7 +2460,7 @@ bulletPosition = [
         "id": "mn90",
         "name": "MN 90 : Kaṇṇakatthalasutta",
         "nameEn": "MN 90 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2469,7 +2469,7 @@ bulletPosition = [
         "id": "mn91",
         "name": "MN 91 : Brahmāyusutta",
         "nameEn": "MN 91 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2478,7 +2478,7 @@ bulletPosition = [
         "id": "mn92",
         "name": "MN 92 : Selasutta",
         "nameEn": "MN 92 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2487,7 +2487,7 @@ bulletPosition = [
         "id": "mn93",
         "name": "MN 93 : Assalāyanasutta",
         "nameEn": "MN 93 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2496,7 +2496,7 @@ bulletPosition = [
         "id": "mn94",
         "name": "MN 94 : Ghoṭamukhasutta",
         "nameEn": "MN 94 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2505,7 +2505,7 @@ bulletPosition = [
         "id": "mn95",
         "name": "MN 95 : Caṅkīsutta",
         "nameEn": "MN 95 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2514,7 +2514,7 @@ bulletPosition = [
         "id": "mn96",
         "name": "MN 96 : Esukārīsutta",
         "nameEn": "MN 96 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2523,7 +2523,7 @@ bulletPosition = [
         "id": "mn97",
         "name": "MN 97 : Dhanañjānisutta",
         "nameEn": "MN 97 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2532,7 +2532,7 @@ bulletPosition = [
         "id": "mn98",
         "name": "MN 98 : Vāseṭṭhasutta",
         "nameEn": "MN 98 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2541,7 +2541,7 @@ bulletPosition = [
         "id": "mn99",
         "name": "MN 99 : Subhasutta",
         "nameEn": "MN 99 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2550,7 +2550,7 @@ bulletPosition = [
         "id": "mn100",
         "name": "MN 100 : Saṅgāravasutta",
         "nameEn": "MN 100 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2559,7 +2559,7 @@ bulletPosition = [
         "id": "mn101",
         "name": "MN 101 : Devadahasutta",
         "nameEn": "MN 101 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2568,7 +2568,7 @@ bulletPosition = [
         "id": "mn102",
         "name": "MN 102 : Pañcattayasutta",
         "nameEn": "MN 102 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2577,7 +2577,7 @@ bulletPosition = [
         "id": "mn103",
         "name": "MN 103 : Kintisutta",
         "nameEn": "MN 103 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2586,7 +2586,7 @@ bulletPosition = [
         "id": "mn104",
         "name": "MN 104 : Sāmagāmasutta",
         "nameEn": "MN 104 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2595,7 +2595,7 @@ bulletPosition = [
         "id": "mn105",
         "name": "MN 105 : Sunakkhattasutta",
         "nameEn": "MN 105 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2604,7 +2604,7 @@ bulletPosition = [
         "id": "mn106",
         "name": "MN 106 : Āneñjasappāyasutta",
         "nameEn": "MN 106 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2613,7 +2613,7 @@ bulletPosition = [
         "id": "mn107",
         "name": "MN 107 : Gaṇakamoggallānasutta",
         "nameEn": "MN 107 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2622,7 +2622,7 @@ bulletPosition = [
         "id": "mn108",
         "name": "MN 108 : Gopakamoggallānasutta",
         "nameEn": "MN 108 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2631,7 +2631,7 @@ bulletPosition = [
         "id": "mn109",
         "name": "MN 109 : Mahāpuṇṇamasutta",
         "nameEn": "MN 109 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2640,7 +2640,7 @@ bulletPosition = [
         "id": "mn110",
         "name": "MN 110 : Cūḷapuṇṇamasutta",
         "nameEn": "MN 110 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2649,7 +2649,7 @@ bulletPosition = [
         "id": "mn111",
         "name": "MN 111 : Anupadasutta",
         "nameEn": "MN 111 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2658,7 +2658,7 @@ bulletPosition = [
         "id": "mn112",
         "name": "MN 112 : Chabbisodhanasutta",
         "nameEn": "MN 112 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2667,7 +2667,7 @@ bulletPosition = [
         "id": "mn113",
         "name": "MN 113 : Sappurisasutta",
         "nameEn": "MN 113 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2676,7 +2676,7 @@ bulletPosition = [
         "id": "mn114",
         "name": "MN 114 : Sevitabbāsevitabbasutta",
         "nameEn": "MN 114 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2685,7 +2685,7 @@ bulletPosition = [
         "id": "mn115",
         "name": "MN 115 : Bahudhātukasutta",
         "nameEn": "MN 115 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2694,7 +2694,7 @@ bulletPosition = [
         "id": "mn116",
         "name": "MN 116 : Isigilisutta",
         "nameEn": "MN 116 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2703,7 +2703,7 @@ bulletPosition = [
         "id": "mn117",
         "name": "MN 117 : Mahācattārīsakasutta",
         "nameEn": "MN 117 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2712,7 +2712,7 @@ bulletPosition = [
         "id": "mn118",
         "name": "MN 118 : Ānāpānassatisutta",
         "nameEn": "MN 118 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2721,7 +2721,7 @@ bulletPosition = [
         "id": "mn119",
         "name": "MN 119 : Kāyagatāsatisutta",
         "nameEn": "MN 119 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2730,7 +2730,7 @@ bulletPosition = [
         "id": "mn120",
         "name": "MN 120 : Saṅkhārupapattisutta",
         "nameEn": "MN 120 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2739,7 +2739,7 @@ bulletPosition = [
         "id": "mn121",
         "name": "MN 121 : Cūḷasuññatasutta",
         "nameEn": "MN 121 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2748,7 +2748,7 @@ bulletPosition = [
         "id": "mn122",
         "name": "MN 122 : Mahāsuññatasutta",
         "nameEn": "MN 122 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2757,7 +2757,7 @@ bulletPosition = [
         "id": "mn123",
         "name": "MN 123 : Acchariyaabbhutasutta",
         "nameEn": "MN 123 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2766,7 +2766,7 @@ bulletPosition = [
         "id": "mn124",
         "name": "MN 124 : Bākulasutta",
         "nameEn": "MN 124 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2775,7 +2775,7 @@ bulletPosition = [
         "id": "mn125",
         "name": "MN 125 : Dantabhūmisutta",
         "nameEn": "MN 125 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2784,7 +2784,7 @@ bulletPosition = [
         "id": "mn126",
         "name": "MN 126 : Bhūmijasutta",
         "nameEn": "MN 126 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2793,7 +2793,7 @@ bulletPosition = [
         "id": "mn127",
         "name": "MN 127 : Anuruddhasutta",
         "nameEn": "MN 127 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2802,7 +2802,7 @@ bulletPosition = [
         "id": "mn128",
         "name": "MN 128 : Upakkilesasutta",
         "nameEn": "MN 128 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2811,7 +2811,7 @@ bulletPosition = [
         "id": "mn129",
         "name": "MN 129 : Bālapaṇḍitasutta",
         "nameEn": "MN 129 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2820,7 +2820,7 @@ bulletPosition = [
         "id": "mn130",
         "name": "MN 130 : Devadūtasutta",
         "nameEn": "MN 130 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2829,7 +2829,7 @@ bulletPosition = [
         "id": "mn131",
         "name": "MN 131 : Bhaddekarattasutta",
         "nameEn": "MN 131 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2838,7 +2838,7 @@ bulletPosition = [
         "id": "mn132",
         "name": "MN 132 : Ānandabhaddekarattasutta",
         "nameEn": "MN 132 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2847,7 +2847,7 @@ bulletPosition = [
         "id": "mn133",
         "name": "MN 133 : Mahākaccānabhaddekarattasutta",
         "nameEn": "MN 133 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2856,7 +2856,7 @@ bulletPosition = [
         "id": "mn134",
         "name": "MN 134 : Lomasakaṅgiyabhaddekarattasutta",
         "nameEn": "MN 134 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2865,7 +2865,7 @@ bulletPosition = [
         "id": "mn135",
         "name": "MN 135 : Cūḷakammavibhaṅgasutta",
         "nameEn": "MN 135 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2874,7 +2874,7 @@ bulletPosition = [
         "id": "mn136",
         "name": "MN 136 : Mahākammavibhaṅgasutta",
         "nameEn": "MN 136 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2883,7 +2883,7 @@ bulletPosition = [
         "id": "mn137",
         "name": "MN 137 : Saḷāyatanavibhaṅgasutta",
         "nameEn": "MN 137 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2892,7 +2892,7 @@ bulletPosition = [
         "id": "mn138",
         "name": "MN 138 : Uddesavibhaṅgasutta",
         "nameEn": "MN 138 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2901,7 +2901,7 @@ bulletPosition = [
         "id": "mn139",
         "name": "MN 139 : Araṇavibhaṅgasutta",
         "nameEn": "MN 139 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2910,7 +2910,7 @@ bulletPosition = [
         "id": "mn140",
         "name": "MN 140 : Dhātuvibhaṅgasutta",
         "nameEn": "MN 140 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2919,7 +2919,7 @@ bulletPosition = [
         "id": "mn141",
         "name": "MN 141 : Saccavibhaṅgasutta",
         "nameEn": "MN 141 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2928,7 +2928,7 @@ bulletPosition = [
         "id": "mn142",
         "name": "MN 142 : Dakkhiṇāvibhaṅgasutta",
         "nameEn": "MN 142 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2937,7 +2937,7 @@ bulletPosition = [
         "id": "mn143",
         "name": "MN 143 : Anāthapiṇḍikovādasutta",
         "nameEn": "MN 143 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2946,7 +2946,7 @@ bulletPosition = [
         "id": "mn144",
         "name": "MN 144 : Channovādasutta",
         "nameEn": "MN 144 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2955,7 +2955,7 @@ bulletPosition = [
         "id": "mn145",
         "name": "MN 145 : Puṇṇovādasutta",
         "nameEn": "MN 145 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2964,7 +2964,7 @@ bulletPosition = [
         "id": "mn146",
         "name": "MN 146 : Nandakovādasutta",
         "nameEn": "MN 146 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2973,7 +2973,7 @@ bulletPosition = [
         "id": "mn147",
         "name": "MN 147 : Cūḷarāhulovādasutta",
         "nameEn": "MN 147 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2982,7 +2982,7 @@ bulletPosition = [
         "id": "mn148",
         "name": "MN 148 : Chachakkasutta",
         "nameEn": "MN 148 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -2991,7 +2991,7 @@ bulletPosition = [
         "id": "mn149",
         "name": "MN 149 : Mahāsaḷāyatanikasutta",
         "nameEn": "MN 149 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3000,7 +3000,7 @@ bulletPosition = [
         "id": "mn150",
         "name": "MN 150 : Nagaravindeyyasutta",
         "nameEn": "MN 150 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3009,7 +3009,7 @@ bulletPosition = [
         "id": "mn151",
         "name": "MN 151 : Piṇḍapātapārisuddhisutta",
         "nameEn": "MN 151 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3018,7 +3018,7 @@ bulletPosition = [
         "id": "mn152",
         "name": "MN 152 : Indriyabhāvanāsutta",
         "nameEn": "MN 152 : undefined",
-        "color": "rgb(203, 214, 169)",
+        "color": "hsl(434.4,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3027,7 +3027,7 @@ bulletPosition = [
         "id": "sn1-nalavagga",
         "name": "SN 1.1–10 : Naḷavagga",
         "nameEn": "SN 1.1–10 : A Reed ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3036,7 +3036,7 @@ bulletPosition = [
         "id": "sn1-nandanavagga",
         "name": "SN 1.11–20 : Nandanavagga",
         "nameEn": "SN 1.11–20 : The Garden of Delight ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3045,7 +3045,7 @@ bulletPosition = [
         "id": "sn1-sattivagga",
         "name": "SN 1.21–30 : Sattivagga",
         "nameEn": "SN 1.21–30 : A Sword ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3054,7 +3054,7 @@ bulletPosition = [
         "id": "sn1-satullapakayikavagga",
         "name": "SN 1.31–40 : Satullapakāyikavagga",
         "nameEn": "SN 1.31–40 : The Satullapa Group ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3063,7 +3063,7 @@ bulletPosition = [
         "id": "sn1-adittavagga",
         "name": "SN 1.41–50 : Ādittavagga",
         "nameEn": "SN 1.41–50 : On Fire ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3072,7 +3072,7 @@ bulletPosition = [
         "id": "sn1-jaravagga",
         "name": "SN 1.51–60 : Jarāvagga",
         "nameEn": "SN 1.51–60 : Old Age ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3081,7 +3081,7 @@ bulletPosition = [
         "id": "sn1-addhavagga",
         "name": "SN 1.61–70 : Addhavagga",
         "nameEn": "SN 1.61–70 : Oppressed ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3090,7 +3090,7 @@ bulletPosition = [
         "id": "sn1-chetvavagga",
         "name": "SN 1.71–81 : Chetvāvagga",
         "nameEn": "SN 1.71–81 : Incinerated ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3099,7 +3099,7 @@ bulletPosition = [
         "id": "sn2-pathamavagga",
         "name": "SN 2.1–10 : Paṭhamavagga",
         "nameEn": "SN 2.1–10 : Chapter One",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3108,7 +3108,7 @@ bulletPosition = [
         "id": "sn2-anathapindikavagga",
         "name": "SN 2.11–20 : Anāthapiṇḍikavagga",
         "nameEn": "SN 2.11–20 : With Anāthapiṇḍika ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3117,7 +3117,7 @@ bulletPosition = [
         "id": "sn2-nanatitthiyavagga",
         "name": "SN 2.21–30 : Nānātitthiyavagga",
         "nameEn": "SN 2.21–30 : Various Sectarians ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3126,7 +3126,7 @@ bulletPosition = [
         "id": "sn3-pathamavagga",
         "name": "SN 3.1–10 : Paṭhamavagga",
         "nameEn": "SN 3.1–10 : Chapter One",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3135,7 +3135,7 @@ bulletPosition = [
         "id": "sn3-dutiyavagga",
         "name": "SN 3.11–20 : Dutiyavagga",
         "nameEn": "SN 3.11–20 : Chapter Two ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3144,7 +3144,7 @@ bulletPosition = [
         "id": "sn3-tatiyavagga",
         "name": "SN 3.21–25 : Tatiyavagga",
         "nameEn": "SN 3.21–25 : Chapter Three",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3153,7 +3153,7 @@ bulletPosition = [
         "id": "sn4-pathamavagga",
         "name": "SN 4.1–10 : Paṭhamavagga",
         "nameEn": "SN 4.1–10 : Chapter One",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3162,7 +3162,7 @@ bulletPosition = [
         "id": "sn4-dutiyavagga",
         "name": "SN 4.11–20 : Dutiyavagga",
         "nameEn": "SN 4.11–20 : Chapter Two ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3171,7 +3171,7 @@ bulletPosition = [
         "id": "sn4-tatiyavagga",
         "name": "SN 4.21–25 : Tatiyavagga",
         "nameEn": "SN 4.21–25 : Chapter Three",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3180,7 +3180,7 @@ bulletPosition = [
         "id": "sn5-bhikkhunivagga",
         "name": "SN 5.1–10 : Bhikkhunīvagga",
         "nameEn": "SN 5.1–10 : Nuns ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3189,7 +3189,7 @@ bulletPosition = [
         "id": "sn6-pathamavagga",
         "name": "SN 6.1–10 : Paṭhamavagga",
         "nameEn": "SN 6.1–10 : Chapter One",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3198,7 +3198,7 @@ bulletPosition = [
         "id": "sn6-dutiyavagga",
         "name": "SN 6.11–15 : Dutiyavagga",
         "nameEn": "SN 6.11–15 : Chapter Two ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3207,7 +3207,7 @@ bulletPosition = [
         "id": "sn7-arahantavagga",
         "name": "SN 7.1–10 : Arahantavagga",
         "nameEn": "SN 7.1–10 : The Perfected Ones ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3216,7 +3216,7 @@ bulletPosition = [
         "id": "sn7-upasakavagga",
         "name": "SN 7.11–22 : Upāsakavagga",
         "nameEn": "SN 7.11–22 : A Lay Follower ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3225,7 +3225,7 @@ bulletPosition = [
         "id": "sn8-vangisavagga",
         "name": "SN 8.1–12 : Vaṅgīsavagga",
         "nameEn": "SN 8.1–12 : With the Poet Vaṅgīsa ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3234,7 +3234,7 @@ bulletPosition = [
         "id": "sn9-vanavagga",
         "name": "SN 9.1–14 : Vanavagga",
         "nameEn": "SN 9.1–14 : In the Woods ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3243,7 +3243,7 @@ bulletPosition = [
         "id": "sn10-indakavagga",
         "name": "SN 10.1–12 : Indakavagga",
         "nameEn": "SN 10.1–12 : With Indaka ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3252,7 +3252,7 @@ bulletPosition = [
         "id": "sn11-pathamavagga",
         "name": "SN 11.1–10 : Paṭhamavagga",
         "nameEn": "SN 11.1–10 : Chapter One",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3261,7 +3261,7 @@ bulletPosition = [
         "id": "sn11-dutiyavagga",
         "name": "SN 11.11–20 : Dutiyavagga",
         "nameEn": "SN 11.11–20 : Chapter Two ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3270,7 +3270,7 @@ bulletPosition = [
         "id": "sn11-tatiyavagga",
         "name": "SN 11.21–25 : Tatiyavagga",
         "nameEn": "SN 11.21–25 : Chapter Three",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3279,7 +3279,7 @@ bulletPosition = [
         "id": "sn12-buddhavagga",
         "name": "SN 12.1–10 : Buddhavagga",
         "nameEn": "SN 12.1–10 : The Buddhas ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3288,7 +3288,7 @@ bulletPosition = [
         "id": "sn12-aharavagga",
         "name": "SN 12.11–20 : Āhāravagga",
         "nameEn": "SN 12.11–20 : Fuel ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3297,7 +3297,7 @@ bulletPosition = [
         "id": "sn12-dasabalavagga",
         "name": "SN 12.21–30 : Dasabalavagga",
         "nameEn": "SN 12.21–30 : The Ten Powers ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3306,7 +3306,7 @@ bulletPosition = [
         "id": "sn12-kalarakhattiyavagga",
         "name": "SN 12.31–40 : Kaḷārakhattiyavagga",
         "nameEn": "SN 12.31–40 : With Kaḷāra the Aristocrat ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3315,7 +3315,7 @@ bulletPosition = [
         "id": "sn12-gahapativagga",
         "name": "SN 12.41–50 : Gahapativagga",
         "nameEn": "SN 12.41–50 : Householders ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3324,7 +3324,7 @@ bulletPosition = [
         "id": "sn12-dukkhavagga",
         "name": "SN 12.51–60 : Dukkhavagga",
         "nameEn": "SN 12.51–60 : Suffering ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3333,7 +3333,7 @@ bulletPosition = [
         "id": "sn12-mahavagga",
         "name": "SN 12.61–70 : Mahāvagga",
         "nameEn": "SN 12.61–70 : The Great Chapter ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3342,7 +3342,7 @@ bulletPosition = [
         "id": "sn12-samanabrahmanavagga",
         "name": "SN 12.71–81 : Samaṇabrāhmaṇavagga",
         "nameEn": "SN 12.71–81 : Ascetics and Brahmins ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3360,7 +3360,7 @@ bulletPosition = [
         "id": "sn13-abhisamayavagga",
         "name": "SN 13.1–11 : Abhisamayavagga",
         "nameEn": "SN 13.1–11 : undefined",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3369,7 +3369,7 @@ bulletPosition = [
         "id": "sn14-nanattavagga",
         "name": "SN 14.1–10 : Nānattavagga",
         "nameEn": "SN 14.1–10 : Diversity ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3378,7 +3378,7 @@ bulletPosition = [
         "id": "sn14-dutiyavagga",
         "name": "SN 14.11–22 : Dutiyavagga",
         "nameEn": "SN 14.11–22 : Chapter Two ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3387,7 +3387,7 @@ bulletPosition = [
         "id": "sn14-kammapathavagga",
         "name": "SN 14.23–29 : Kammapathavagga",
         "nameEn": "SN 14.23–29 : Ways of Performing Deeds ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3396,7 +3396,7 @@ bulletPosition = [
         "id": "sn14-catutthavagga",
         "name": "SN 14.30–39 : Catutthavagga",
         "nameEn": "SN 14.30–39 : Chapter Four",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3405,7 +3405,7 @@ bulletPosition = [
         "id": "sn15-pathamavagga",
         "name": "SN 15.1–10 : Paṭhamavagga",
         "nameEn": "SN 15.1–10 : Chapter One",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3414,7 +3414,7 @@ bulletPosition = [
         "id": "sn15-dutiyavagga",
         "name": "SN 15.11–20 : Dutiyavagga",
         "nameEn": "SN 15.11–20 : Chapter Two ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3423,7 +3423,7 @@ bulletPosition = [
         "id": "sn16-kassapavagga",
         "name": "SN 16.1–13 : Kassapavagga",
         "nameEn": "SN 16.1–13 : With Kassapa ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3432,7 +3432,7 @@ bulletPosition = [
         "id": "sn17-pathamavagga",
         "name": "SN 17.1–10 : Paṭhamavagga",
         "nameEn": "SN 17.1–10 : Chapter One",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3441,7 +3441,7 @@ bulletPosition = [
         "id": "sn17-dutiyavagga",
         "name": "SN 17.11–20 : Dutiyavagga",
         "nameEn": "SN 17.11–20 : Chapter Two ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3450,7 +3450,7 @@ bulletPosition = [
         "id": "sn17-tatiyavagga",
         "name": "SN 17.21–30 : Tatiyavagga",
         "nameEn": "SN 17.21–30 : Chapter Three",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3459,7 +3459,7 @@ bulletPosition = [
         "id": "sn17-catutthavagga",
         "name": "SN 17.31–43 : Catutthavagga",
         "nameEn": "SN 17.31–43 : Chapter Four",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3468,7 +3468,7 @@ bulletPosition = [
         "id": "sn18-pathamavagga",
         "name": "SN 18.1–10 : Paṭhamavagga",
         "nameEn": "SN 18.1–10 : Chapter One",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3477,7 +3477,7 @@ bulletPosition = [
         "id": "sn18-dutiyavagga",
         "name": "SN 18.11–22 : Dutiyavagga",
         "nameEn": "SN 18.11–22 : Chapter Two ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3486,7 +3486,7 @@ bulletPosition = [
         "id": "sn19-pathamavagga",
         "name": "SN 19.1–10 : Paṭhamavagga",
         "nameEn": "SN 19.1–10 : Chapter One",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3495,7 +3495,7 @@ bulletPosition = [
         "id": "sn19-dutiyavagga",
         "name": "SN 19.11–21 : Dutiyavagga",
         "nameEn": "SN 19.11–21 : Chapter Two ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3504,7 +3504,7 @@ bulletPosition = [
         "id": "sn20-opammavagga",
         "name": "SN 20.1–12 : Opammavagga",
         "nameEn": "SN 20.1–12 : The Similes",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3513,7 +3513,7 @@ bulletPosition = [
         "id": "sn21-bhikkhuvagga",
         "name": "SN 21.1–12 : Bhikkhuvagga",
         "nameEn": "SN 21.1–12 : Monks ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3549,7 +3549,7 @@ bulletPosition = [
         "id": "sn23-pathamamaravagga",
         "name": "SN 23.1–10 : Paṭhamamāravagga",
         "nameEn": "SN 23.1–10 : First Chapter About Māra ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3558,7 +3558,7 @@ bulletPosition = [
         "id": "sn23-dutiyamaravagga",
         "name": "SN 23.11–22 : Dutiyamāravagga",
         "nameEn": "SN 23.11–22 : Second Chapter About Māra",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3567,7 +3567,7 @@ bulletPosition = [
         "id": "sn23-ayacanavagga",
         "name": "SN 23.23–34 : Āyācanavagga",
         "nameEn": "SN 23.23–34 : Aspiration ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3576,7 +3576,7 @@ bulletPosition = [
         "id": "sn23-upanisinnavagga",
         "name": "SN 23.35–46 : Upanisinnavagga",
         "nameEn": "SN 23.35–46 : Sitting Close ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3585,7 +3585,7 @@ bulletPosition = [
         "id": "sn24-sotapattivagga",
         "name": "SN 24.1–18 : Sotāpattivagga",
         "nameEn": "SN 24.1–18 : Stream-Entry ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3594,7 +3594,7 @@ bulletPosition = [
         "id": "sn24-dutiyagamanavagga",
         "name": "SN 24.19–44 : Dutiyagamanavagga",
         "nameEn": "SN 24.19–44 : The Second Round ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3603,7 +3603,7 @@ bulletPosition = [
         "id": "sn24-tatiyagamanavagga",
         "name": "SN 24.45–70 : Tatiyagamanavagga",
         "nameEn": "SN 24.45–70 : The Third Round ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3612,7 +3612,7 @@ bulletPosition = [
         "id": "sn24-catutthagamanavagga",
         "name": "SN 24.71–96 : Catutthagamanavagga",
         "nameEn": "SN 24.71–96 : The Fourth Round ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3621,7 +3621,7 @@ bulletPosition = [
         "id": "sn25-cakkhuvagga",
         "name": "SN 25.1–10 : Cakkhuvagga",
         "nameEn": "SN 25.1–10 : The Eye ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3630,7 +3630,7 @@ bulletPosition = [
         "id": "sn26-uppadavagga",
         "name": "SN 26.1–10 : Uppādavagga",
         "nameEn": "SN 26.1–10 : Arising ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3639,7 +3639,7 @@ bulletPosition = [
         "id": "sn27-kilesavagga",
         "name": "SN 27.1–10 : Kilesavagga",
         "nameEn": "SN 27.1–10 : Corruptions ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3648,7 +3648,7 @@ bulletPosition = [
         "id": "sn28-sariputtavagga",
         "name": "SN 28.1–10 : Sāriputtavagga",
         "nameEn": "SN 28.1–10 : With Sāriputta ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3657,7 +3657,7 @@ bulletPosition = [
         "id": "sn29-nagavagga",
         "name": "SN 29.1–50 : Nāgavagga",
         "nameEn": "SN 29.1–50 : Dragons ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3666,7 +3666,7 @@ bulletPosition = [
         "id": "sn30-supannavagga",
         "name": "SN 30.1–46 : Supaṇṇavagga",
         "nameEn": "SN 30.1–46 : Phoenixes ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3675,7 +3675,7 @@ bulletPosition = [
         "id": "sn31-gandhabbavagga",
         "name": "SN 31.1–112 : Gandhabbavagga",
         "nameEn": "SN 31.1–112 : Fairies ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3684,7 +3684,7 @@ bulletPosition = [
         "id": "sn32-valahakavagga",
         "name": "SN 32.1–57 : Valāhakavagga",
         "nameEn": "SN 32.1–57 : Gods of the Clouds ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3693,7 +3693,7 @@ bulletPosition = [
         "id": "sn33-vacchagottavagga",
         "name": "SN 33.1–55 : Vacchagottavagga",
         "nameEn": "SN 33.1–55 : With Vacchagotta ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3702,7 +3702,7 @@ bulletPosition = [
         "id": "sn34-jhanavagga",
         "name": "SN 34.1–55 : Jhānavagga",
         "nameEn": "SN 34.1–55 : Absorption ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3747,7 +3747,7 @@ bulletPosition = [
         "id": "sn36-sagathavagga",
         "name": "SN 36.1–10 : Sagāthāvagga",
         "nameEn": "SN 36.1–10 : With Verses ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3756,7 +3756,7 @@ bulletPosition = [
         "id": "sn36-rahogatavagga",
         "name": "SN 36.11–20 : Rahogatavagga",
         "nameEn": "SN 36.11–20 : In Private ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3765,7 +3765,7 @@ bulletPosition = [
         "id": "sn36-atthasatapariyayavagga",
         "name": "SN 36.21–31 : Aṭṭhasatapariyāyavagga",
         "nameEn": "SN 36.21–31 : The Explanation of the Hundred and Eight ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3774,7 +3774,7 @@ bulletPosition = [
         "id": "sn37-pathamapeyyalavagga",
         "name": "SN 37.1–14 : Paṭhamapeyyālavagga",
         "nameEn": "SN 37.1–14 : First Chapter of Abbreviated Texts ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3783,7 +3783,7 @@ bulletPosition = [
         "id": "sn37-dutiyapeyyalavagga",
         "name": "SN 37.15–24 : Dutiyapeyyālavagga",
         "nameEn": "SN 37.15–24 : Second Chapter of Abbreviated Texts ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3792,7 +3792,7 @@ bulletPosition = [
         "id": "sn37-balavagga",
         "name": "SN 37.25–34 : Balavagga",
         "nameEn": "SN 37.25–34 : Fools",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3801,7 +3801,7 @@ bulletPosition = [
         "id": "sn38-jambukhadakavagga",
         "name": "SN 38.1–16 : Jambukhādakavagga",
         "nameEn": "SN 38.1–16 : With Jambukhādaka ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3810,7 +3810,7 @@ bulletPosition = [
         "id": "sn39-samandakavagga",
         "name": "SN 39.1–16 : Sāmaṇḍakavagga",
         "nameEn": "SN 39.1–16 : With Sāmaṇḍaka ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3819,7 +3819,7 @@ bulletPosition = [
         "id": "sn40-moggallanavagga",
         "name": "SN 40.1–11 : Moggallānavagga",
         "nameEn": "SN 40.1–11 : With Moggallāna ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3828,7 +3828,7 @@ bulletPosition = [
         "id": "sn41-cittavagga",
         "name": "SN 41.1–10 : Cittavagga",
         "nameEn": "SN 41.1–10 : With Citta ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3837,7 +3837,7 @@ bulletPosition = [
         "id": "sn42-gamanivagga",
         "name": "SN 42.1–13 : Gāmaṇivagga",
         "nameEn": "SN 42.1–13 : Chiefs ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3846,7 +3846,7 @@ bulletPosition = [
         "id": "sn43-pathamavagga",
         "name": "SN 43.1–11 : Paṭhamavagga",
         "nameEn": "SN 43.1–11 : Chapter One",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3855,7 +3855,7 @@ bulletPosition = [
         "id": "sn43-dutiyavagga",
         "name": "SN 43.12–44 : Dutiyavagga",
         "nameEn": "SN 43.12–44 : Chapter Two ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3864,7 +3864,7 @@ bulletPosition = [
         "id": "sn44-abyakatavagga",
         "name": "SN 44.1–11 : Abyākatavagga",
         "nameEn": "SN 44.1–11 : The Undeclared Points ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3873,7 +3873,7 @@ bulletPosition = [
         "id": "sn45-avijjavagga",
         "name": "SN 45.1–10 : Avijjāvagga",
         "nameEn": "SN 45.1–10 : Ignorance ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3882,7 +3882,7 @@ bulletPosition = [
         "id": "sn45-viharavagga",
         "name": "SN 45.11–20 : Vihāravagga",
         "nameEn": "SN 45.11–20 : Meditation ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3891,7 +3891,7 @@ bulletPosition = [
         "id": "sn45-micchattavagga",
         "name": "SN 45.21–30 : Micchattavagga",
         "nameEn": "SN 45.21–30 : The Wrong Way ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3900,7 +3900,7 @@ bulletPosition = [
         "id": "sn45-patipattivagga",
         "name": "SN 45.31–40 : Paṭipattivagga",
         "nameEn": "SN 45.31–40 : Practice ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3909,7 +3909,7 @@ bulletPosition = [
         "id": "sn45-annatitthiyapeyyalavagga",
         "name": "SN 45.41–48 : Aññatitthiyapeyyālavagga",
         "nameEn": "SN 45.41–48 : Abbreviated Texts on Followers of Other Paths ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3918,7 +3918,7 @@ bulletPosition = [
         "id": "sn45-suriyapeyyalavagga",
         "name": "SN 45.49–62 : Sūriyapeyyālavagga",
         "nameEn": "SN 45.49–62 : Abbreviated Texts on the Sun ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3927,7 +3927,7 @@ bulletPosition = [
         "id": "sn45-ekadhammapeyyalavagga",
         "name": "SN 45.63–76 : Ekadhammapeyyālavagga",
         "nameEn": "SN 45.63–76 : Abbreviated Texts on One Thing ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3936,7 +3936,7 @@ bulletPosition = [
         "id": "sn45-dutiyaekadhammapeyyalavagga",
         "name": "SN 45.77–90 : Dutiyaekadhammapeyyālavagga",
         "nameEn": "SN 45.77–90 : Abbreviated Texts on One Thing ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3945,7 +3945,7 @@ bulletPosition = [
         "id": "sn45-gangapeyyalavagga",
         "name": "SN 45.91–102 : Gaṅgāpeyyālavagga",
         "nameEn": "SN 45.91–102 : Abbreviated Texts on the Ganges ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3954,7 +3954,7 @@ bulletPosition = [
         "id": "sn45-dutiyagangapeyyalavagga",
         "name": "SN 45.103–138 : Dutiyagaṅgāpeyyālavagga",
         "nameEn": "SN 45.103–138 : Abbreviated Texts on the Ganges ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3963,7 +3963,7 @@ bulletPosition = [
         "id": "sn45-appamadapeyyalavagga",
         "name": "SN 45.139–148 : Appamādapeyyālavagga",
         "nameEn": "SN 45.139–148 : Abbreviated Texts on Diligence ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3972,7 +3972,7 @@ bulletPosition = [
         "id": "sn45-balakaraniyavagga",
         "name": "SN 45.149–160 : Balakaraṇīyavagga",
         "nameEn": "SN 45.149–160 : Hard Work ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3981,7 +3981,7 @@ bulletPosition = [
         "id": "sn45-esanavagga",
         "name": "SN 45.161–170 : Esanāvagga",
         "nameEn": "SN 45.161–170 : Searches ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3990,7 +3990,7 @@ bulletPosition = [
         "id": "sn45-oghavagga",
         "name": "SN 45.171–180 : Oghavagga",
         "nameEn": "SN 45.171–180 : Floods ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -3999,7 +3999,7 @@ bulletPosition = [
         "id": "sn46-pabbatavagga",
         "name": "SN 46.1–10 : Pabbatavagga",
         "nameEn": "SN 46.1–10 : Mountains ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4008,7 +4008,7 @@ bulletPosition = [
         "id": "sn46-gilanavagga",
         "name": "SN 46.11–20 : Gilānavagga",
         "nameEn": "SN 46.11–20 : Sick ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4017,7 +4017,7 @@ bulletPosition = [
         "id": "sn46-udayivagga",
         "name": "SN 46.21–30 : Udāyivagga",
         "nameEn": "SN 46.21–30 : With Udāyī ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4026,7 +4026,7 @@ bulletPosition = [
         "id": "sn46-nivaranavagga",
         "name": "SN 46.31–40 : Nīvaraṇavagga",
         "nameEn": "SN 46.31–40 : Hindrances ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4035,7 +4035,7 @@ bulletPosition = [
         "id": "sn46-cakkavattivagga",
         "name": "SN 46.41–50 : Cakkavattivagga",
         "nameEn": "SN 46.41–50 : The Wheel-Turning Monarch",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4044,7 +4044,7 @@ bulletPosition = [
         "id": "sn46-sakacchavagga",
         "name": "SN 46.51–56 : Sākacchavagga",
         "nameEn": "SN 46.51–56 : Discussion ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4053,7 +4053,7 @@ bulletPosition = [
         "id": "sn46-anapanavagga",
         "name": "SN 46.57–66 : Ānāpānavagga",
         "nameEn": "SN 46.57–66 : Breathing ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4062,7 +4062,7 @@ bulletPosition = [
         "id": "sn46-nirodhavagga",
         "name": "SN 46.67–76 : Nirodhavagga",
         "nameEn": "SN 46.67–76 : Cessation ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4071,7 +4071,7 @@ bulletPosition = [
         "id": "sn46-gangapeyyalavagga",
         "name": "SN 46.77–88 : Gaṅgāpeyyālavagga",
         "nameEn": "SN 46.77–88 : Abbreviated Texts on the Ganges ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4080,7 +4080,7 @@ bulletPosition = [
         "id": "sn46-appamadavagga",
         "name": "SN 46.89–98 : Appamādavagga",
         "nameEn": "SN 46.89–98 : Diligence ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4089,7 +4089,7 @@ bulletPosition = [
         "id": "sn46-balakaraniyavagga",
         "name": "SN 46.99–110 : Balakaraṇīyavagga",
         "nameEn": "SN 46.99–110 : Hard Work ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4098,7 +4098,7 @@ bulletPosition = [
         "id": "sn46-esanavagga",
         "name": "SN 46.111–120 : Esanāvagga",
         "nameEn": "SN 46.111–120 : Searches ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4107,7 +4107,7 @@ bulletPosition = [
         "id": "sn46-oghavagga",
         "name": "SN 46.121–130 : Oghavagga",
         "nameEn": "SN 46.121–130 : Floods ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4116,7 +4116,7 @@ bulletPosition = [
         "id": "sn46-punagangapeyyalavagga",
         "name": "SN 46.131–142 : Punagaṅgāpeyyālavagga",
         "nameEn": "SN 46.131–142 : Another Chapter of Abbreviated Texts on the Ganges, Etc. ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4125,7 +4125,7 @@ bulletPosition = [
         "id": "sn46-punaappamadavagga",
         "name": "SN 46.143–152 : Punaappamādavagga",
         "nameEn": "SN 46.143–152 : Another Chapter on Diligence ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4134,7 +4134,7 @@ bulletPosition = [
         "id": "sn46-punabalakaraniyavagga",
         "name": "SN 46.153–164 : Punabalakaraṇīyavagga",
         "nameEn": "SN 46.153–164 : Another Chapter on Hard Work ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4143,7 +4143,7 @@ bulletPosition = [
         "id": "sn46-punaesanavagga",
         "name": "SN 46.165–174 : Punaesanāvagga",
         "nameEn": "SN 46.165–174 : Another Chapter on Searches ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4152,7 +4152,7 @@ bulletPosition = [
         "id": "sn46-punaoghavagga",
         "name": "SN 46.175–184 : Punaoghavagga",
         "nameEn": "SN 46.175–184 : Another Chapter on Floods ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4161,7 +4161,7 @@ bulletPosition = [
         "id": "sn47-ambapalivagga",
         "name": "SN 47.1–10 : Ambapālivagga",
         "nameEn": "SN 47.1–10 : Ambapālī the Courtesan ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4170,7 +4170,7 @@ bulletPosition = [
         "id": "sn47-nalandavagga",
         "name": "SN 47.11–20 : Nālandavagga",
         "nameEn": "SN 47.11–20 : At Nālandā ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4179,7 +4179,7 @@ bulletPosition = [
         "id": "sn47-silatthitivagga",
         "name": "SN 47.21–30 : Sīlaṭṭhitivagga",
         "nameEn": "SN 47.21–30 : Ethics and Duration ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4188,7 +4188,7 @@ bulletPosition = [
         "id": "sn47-ananussutavagga",
         "name": "SN 47.31–40 : Ananussutavagga",
         "nameEn": "SN 47.31–40 : Not Learned From Anyone Else ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4197,7 +4197,7 @@ bulletPosition = [
         "id": "sn47-amatavagga",
         "name": "SN 47.41–50 : Amatavagga",
         "nameEn": "SN 47.41–50 : The Deathless ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4206,7 +4206,7 @@ bulletPosition = [
         "id": "sn47-gangapeyyalavagga",
         "name": "SN 47.51–62 : Gaṅgāpeyyālavagga",
         "nameEn": "SN 47.51–62 : Abbreviated Texts on the Ganges ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4215,7 +4215,7 @@ bulletPosition = [
         "id": "sn47-appamadavagga",
         "name": "SN 47.63–72 : Appamādavagga",
         "nameEn": "SN 47.63–72 : Diligence ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4224,7 +4224,7 @@ bulletPosition = [
         "id": "sn47-balakaraniyavagga",
         "name": "SN 47.73–84 : Balakaraṇīyavagga",
         "nameEn": "SN 47.73–84 : Hard Work ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4233,7 +4233,7 @@ bulletPosition = [
         "id": "sn47-esanavagga",
         "name": "SN 47.85–94 : Esanāvagga",
         "nameEn": "SN 47.85–94 : Searches ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4242,7 +4242,7 @@ bulletPosition = [
         "id": "sn47-oghavagga",
         "name": "SN 47.95–104 : Oghavagga",
         "nameEn": "SN 47.95–104 : Floods ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4251,7 +4251,7 @@ bulletPosition = [
         "id": "sn48-suddhikavagga",
         "name": "SN 48.1–10 : Suddhikavagga",
         "nameEn": "SN 48.1–10 : Plain Version ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4260,7 +4260,7 @@ bulletPosition = [
         "id": "sn48-mudutaravagga",
         "name": "SN 48.11–20 : Mudutaravagga",
         "nameEn": "SN 48.11–20 : Weaker ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4269,7 +4269,7 @@ bulletPosition = [
         "id": "sn48-chalindriyavagga",
         "name": "SN 48.21–30 : Chaḷindriyavagga",
         "nameEn": "SN 48.21–30 : The Six Faculties ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4278,7 +4278,7 @@ bulletPosition = [
         "id": "sn48-sukhindriyavagga",
         "name": "SN 48.31–40 : Sukhindriyavagga",
         "nameEn": "SN 48.31–40 : The Pleasure Faculty ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4287,7 +4287,7 @@ bulletPosition = [
         "id": "sn48-jaravagga",
         "name": "SN 48.41–50 : Jarāvagga",
         "nameEn": "SN 48.41–50 : Old Age ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4296,7 +4296,7 @@ bulletPosition = [
         "id": "sn48-sukarakhatavagga",
         "name": "SN 48.51–60 : Sūkarakhatavagga",
         "nameEn": "SN 48.51–60 : The Boar’s Cave ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4305,7 +4305,7 @@ bulletPosition = [
         "id": "sn48-bodhipakkhiyavagga",
         "name": "SN 48.61–70 : Bodhipakkhiyavagga",
         "nameEn": "SN 48.61–70 : Leading to Awakening ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4314,7 +4314,7 @@ bulletPosition = [
         "id": "sn48-gangapeyyalavagga",
         "name": "SN 48.71–82 : Gaṅgāpeyyālavagga",
         "nameEn": "SN 48.71–82 : Abbreviated Texts on the Ganges ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4323,7 +4323,7 @@ bulletPosition = [
         "id": "sn48-appamadavagga",
         "name": "SN 48.83–92 : Appamādavagga",
         "nameEn": "SN 48.83–92 : Diligence ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4332,7 +4332,7 @@ bulletPosition = [
         "id": "sn48-balakaraniyavagga",
         "name": "SN 48.93–104 : Balakaraṇīyavagga",
         "nameEn": "SN 48.93–104 : Hard Work ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4341,7 +4341,7 @@ bulletPosition = [
         "id": "sn48-esanavagga",
         "name": "SN 48.105–114 : Esanāvagga",
         "nameEn": "SN 48.105–114 : Searches ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4350,7 +4350,7 @@ bulletPosition = [
         "id": "sn48-oghavagga",
         "name": "SN 48.115–124 : Oghavagga",
         "nameEn": "SN 48.115–124 : Floods ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4359,7 +4359,7 @@ bulletPosition = [
         "id": "sn48-punagangapeyyalavagga",
         "name": "SN 48.125–136 : Punagaṅgāpeyyālavagga",
         "nameEn": "SN 48.125–136 : Another Chapter of Abbreviated Texts on the Ganges, Etc. ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4368,7 +4368,7 @@ bulletPosition = [
         "id": "sn48-punaappamadavagga",
         "name": "SN 48.137–146 : Punaappamādavagga",
         "nameEn": "SN 48.137–146 : Another Chapter on Diligence ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4377,7 +4377,7 @@ bulletPosition = [
         "id": "sn48-punabalakaraniyavagga",
         "name": "SN 48.147–158 : Punabalakaraṇīyavagga",
         "nameEn": "SN 48.147–158 : Another Chapter on Hard Work ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4386,7 +4386,7 @@ bulletPosition = [
         "id": "sn48-punaesanavagga",
         "name": "SN 48.159–168 : Punaesanāvagga",
         "nameEn": "SN 48.159–168 : Another Chapter on Searches ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4395,7 +4395,7 @@ bulletPosition = [
         "id": "sn48-punaoghavagga",
         "name": "SN 48.169–178 : Punaoghavagga",
         "nameEn": "SN 48.169–178 : Another Chapter on Floods ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4404,7 +4404,7 @@ bulletPosition = [
         "id": "sn49-gangapeyyalavagga",
         "name": "SN 49.1–12 : Gaṅgāpeyyālavagga",
         "nameEn": "SN 49.1–12 : Abbreviated Texts on the Ganges ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4413,7 +4413,7 @@ bulletPosition = [
         "id": "sn49-appamadavagga",
         "name": "SN 49.13–22 : Appamādavagga",
         "nameEn": "SN 49.13–22 : Diligence ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4422,7 +4422,7 @@ bulletPosition = [
         "id": "sn49-balakaraniyavagga",
         "name": "SN 49.23–34 : Balakaraṇīyavagga",
         "nameEn": "SN 49.23–34 : Hard Work ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4431,7 +4431,7 @@ bulletPosition = [
         "id": "sn49-esanavagga",
         "name": "SN 49.35–44 : Esanāvagga",
         "nameEn": "SN 49.35–44 : Searches ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4440,7 +4440,7 @@ bulletPosition = [
         "id": "sn49-oghavagga",
         "name": "SN 49.45–54 : Oghavagga",
         "nameEn": "SN 49.45–54 : Floods ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4449,7 +4449,7 @@ bulletPosition = [
         "id": "sn50-gangapeyyalavagga",
         "name": "SN 50.1–12 : Gaṅgāpeyyālavagga",
         "nameEn": "SN 50.1–12 : Abbreviated Texts on the Ganges ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4458,7 +4458,7 @@ bulletPosition = [
         "id": "sn50-appamadavagga",
         "name": "SN 50.13–22 : Appamādavagga",
         "nameEn": "SN 50.13–22 : Diligence ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4467,7 +4467,7 @@ bulletPosition = [
         "id": "sn50-balakaraniyavagga",
         "name": "SN 50.23–34 : Balakaraṇīyavagga",
         "nameEn": "SN 50.23–34 : Hard Work ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4476,7 +4476,7 @@ bulletPosition = [
         "id": "sn50-esanavagga",
         "name": "SN 50.35–44 : Esanāvagga",
         "nameEn": "SN 50.35–44 : Searches ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4485,7 +4485,7 @@ bulletPosition = [
         "id": "sn50-oghavagga",
         "name": "SN 50.45–54 : Oghavagga",
         "nameEn": "SN 50.45–54 : Floods ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4494,7 +4494,7 @@ bulletPosition = [
         "id": "sn50-punagangapeyyalavagga",
         "name": "SN 50.55–66 : Punagaṅgāpeyyālavagga",
         "nameEn": "SN 50.55–66 : Another Chapter of Abbreviated Texts on the Ganges, Etc. ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4503,7 +4503,7 @@ bulletPosition = [
         "id": "sn50-punaappamadavagga",
         "name": "SN 50.67–76 : Punaappamādavagga",
         "nameEn": "SN 50.67–76 : Another Chapter on Diligence ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4512,7 +4512,7 @@ bulletPosition = [
         "id": "sn50-punabalakaraniyavagga",
         "name": "SN 50.77–88 : Punabalakaraṇīyavagga",
         "nameEn": "SN 50.77–88 : Another Chapter on Hard Work ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4521,7 +4521,7 @@ bulletPosition = [
         "id": "sn50-punaesanavagga",
         "name": "SN 50.89–98 : Punaesanāvagga",
         "nameEn": "SN 50.89–98 : Another Chapter on Searches ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4530,7 +4530,7 @@ bulletPosition = [
         "id": "sn50-punaoghavagga",
         "name": "SN 50.99–108 : Punaoghavagga",
         "nameEn": "SN 50.99–108 : Another Chapter on Floods ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4539,7 +4539,7 @@ bulletPosition = [
         "id": "sn51-capalavagga",
         "name": "SN 51.1–10 : Cāpālavagga",
         "nameEn": "SN 51.1–10 : At the Cāpāla Shrine ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4548,7 +4548,7 @@ bulletPosition = [
         "id": "sn51-pasadakampanavagga",
         "name": "SN 51.11–20 : Pāsādakampanavagga",
         "nameEn": "SN 51.11–20 : Shaking the Stilt Longhouse ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4557,7 +4557,7 @@ bulletPosition = [
         "id": "sn51-ayogulavagga",
         "name": "SN 51.21–32 : Ayoguḷavagga",
         "nameEn": "SN 51.21–32 : The Iron Ball ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4566,7 +4566,7 @@ bulletPosition = [
         "id": "sn51-gangapeyyalavagga",
         "name": "SN 51.33–44 : Gaṅgāpeyyālavagga",
         "nameEn": "SN 51.33–44 : Abbreviated Texts on the Ganges ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4575,7 +4575,7 @@ bulletPosition = [
         "id": "sn51-appamadavagga",
         "name": "SN 51.45–54 : Appamādavagga",
         "nameEn": "SN 51.45–54 : Diligence ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4584,7 +4584,7 @@ bulletPosition = [
         "id": "sn51-balakaraniyavagga",
         "name": "SN 51.55–66 : Balakaraṇīyavagga",
         "nameEn": "SN 51.55–66 : Hard Work ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4593,7 +4593,7 @@ bulletPosition = [
         "id": "sn51-esanavagga",
         "name": "SN 51.67–76 : Esanāvagga",
         "nameEn": "SN 51.67–76 : Searches ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4602,7 +4602,7 @@ bulletPosition = [
         "id": "sn51-oghavagga",
         "name": "SN 51.77–86 : Oghavagga",
         "nameEn": "SN 51.77–86 : Floods ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4611,7 +4611,7 @@ bulletPosition = [
         "id": "sn52-rahogatavagga",
         "name": "SN 52.1–10 : Rahogatavagga",
         "nameEn": "SN 52.1–10 : In Private ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4620,7 +4620,7 @@ bulletPosition = [
         "id": "sn52-dutiyavagga",
         "name": "SN 52.11–24 : Dutiyavagga",
         "nameEn": "SN 52.11–24 : Chapter Two ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4629,7 +4629,7 @@ bulletPosition = [
         "id": "sn53-gangapeyyalavagga",
         "name": "SN 53.1–12 : Gaṅgāpeyyālavagga",
         "nameEn": "SN 53.1–12 : Abbreviated Texts on the Ganges ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4638,7 +4638,7 @@ bulletPosition = [
         "id": "sn53-appamadavagga",
         "name": "SN 53.13–22 : Appamādavagga",
         "nameEn": "SN 53.13–22 : Diligence ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4647,7 +4647,7 @@ bulletPosition = [
         "id": "sn53-balakaraniyavagga",
         "name": "SN 53.23–34 : Balakaraṇīyavagga",
         "nameEn": "SN 53.23–34 : Hard Work ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4656,7 +4656,7 @@ bulletPosition = [
         "id": "sn53-esanavagga",
         "name": "SN 53.35–44 : Esanāvagga",
         "nameEn": "SN 53.35–44 : Searches ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4665,7 +4665,7 @@ bulletPosition = [
         "id": "sn53-oghavagga",
         "name": "SN 53.45–54 : Oghavagga",
         "nameEn": "SN 53.45–54 : Floods ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4674,7 +4674,7 @@ bulletPosition = [
         "id": "sn54-ekadhammavagga",
         "name": "SN 54.1–10 : Ekadhammavagga",
         "nameEn": "SN 54.1–10 : One Thing ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4683,7 +4683,7 @@ bulletPosition = [
         "id": "sn54-dutiyavagga",
         "name": "SN 54.11–20 : Dutiyavagga",
         "nameEn": "SN 54.11–20 : Chapter Two ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4692,7 +4692,7 @@ bulletPosition = [
         "id": "sn55-veludvaravagga",
         "name": "SN 55.1–10 : Veḷudvāravagga",
         "nameEn": "SN 55.1–10 : At Bamboo Gate ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4701,7 +4701,7 @@ bulletPosition = [
         "id": "sn55-rajakaramavagga",
         "name": "SN 55.11–20 : Rājakārāmavagga",
         "nameEn": "SN 55.11–20 : The Royal Monastery",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4710,7 +4710,7 @@ bulletPosition = [
         "id": "sn55-sarananivagga",
         "name": "SN 55.21–30 : Saraṇānivagga",
         "nameEn": "SN 55.21–30 : About Sarakāni ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4719,7 +4719,7 @@ bulletPosition = [
         "id": "sn55-punnabhisandavagga",
         "name": "SN 55.31–40 : Puññābhisandavagga",
         "nameEn": "SN 55.31–40 : Overflowing Merit ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4728,7 +4728,7 @@ bulletPosition = [
         "id": "sn55-sagathakapunnabhisandavagga",
         "name": "SN 55.41–50 : Sagāthakapuññābhisandavagga",
         "nameEn": "SN 55.41–50 : Overflowing Merit, With Verses ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4737,7 +4737,7 @@ bulletPosition = [
         "id": "sn55-sappannavagga",
         "name": "SN 55.51–61 : Sappaññavagga",
         "nameEn": "SN 55.51–61 : A Wise Person ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4746,7 +4746,7 @@ bulletPosition = [
         "id": "sn55-mahapannavagga",
         "name": "SN 55.62–74 : Mahāpaññavagga",
         "nameEn": "SN 55.62–74 : Great Wisdom ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4755,7 +4755,7 @@ bulletPosition = [
         "id": "sn56-samadhivagga",
         "name": "SN 56.1–10 : Samādhivagga",
         "nameEn": "SN 56.1–10 : Immersion ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4764,7 +4764,7 @@ bulletPosition = [
         "id": "sn56-dhammacakkappavattanavagga",
         "name": "SN 56.11–20 : Dhammacakkappavattanavagga",
         "nameEn": "SN 56.11–20 : Rolling Forth the Wheel of Dhamma ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4773,7 +4773,7 @@ bulletPosition = [
         "id": "sn56-kotigamavagga",
         "name": "SN 56.21–30 : Koṭigāmavagga",
         "nameEn": "SN 56.21–30 : At the Village of Koṭi ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4782,7 +4782,7 @@ bulletPosition = [
         "id": "sn56-sisapavanavagga",
         "name": "SN 56.31–40 : Sīsapāvanavagga",
         "nameEn": "SN 56.31–40 : In a Rosewood Forest ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4791,7 +4791,7 @@ bulletPosition = [
         "id": "sn56-papatavagga",
         "name": "SN 56.41–50 : Papātavagga",
         "nameEn": "SN 56.41–50 : A Cliff ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4800,7 +4800,7 @@ bulletPosition = [
         "id": "sn56-abhisamayavagga",
         "name": "SN 56.51–60 : Abhisamayavagga",
         "nameEn": "SN 56.51–60 : Comprehension ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4809,7 +4809,7 @@ bulletPosition = [
         "id": "sn56-pathamaamakadhannapeyyalavagga",
         "name": "SN 56.61–70 : Paṭhamaāmakadhaññapeyyālavagga",
         "nameEn": "SN 56.61–70 : Abbreviated Texts on Raw Grain ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4818,7 +4818,7 @@ bulletPosition = [
         "id": "sn56-dutiyaamakadhannapeyyalavagga",
         "name": "SN 56.71–80 : Dutiyaāmakadhaññapeyyālavagga",
         "nameEn": "SN 56.71–80 : Abbreviated Texts on Raw Grain ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4827,7 +4827,7 @@ bulletPosition = [
         "id": "sn56-tatiyaamakadhannapeyyalavagga",
         "name": "SN 56.81–90 : Tatiyaāmakadhaññapeyyālavagga",
         "nameEn": "SN 56.81–90 : Abbreviated Texts on Raw Grain ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4836,7 +4836,7 @@ bulletPosition = [
         "id": "sn56-catutthaamakadhannapeyyalavagga",
         "name": "SN 56.91–101 : Catutthaāmakadhaññapeyyālavagga",
         "nameEn": "SN 56.91–101 : Abbreviated Texts on Raw Grain ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4845,7 +4845,7 @@ bulletPosition = [
         "id": "sn56-pancagatipeyyalavagga",
         "name": "SN 56.102–131 : Pañcagatipeyyālavagga",
         "nameEn": "SN 56.102–131 : Abbreviated Texts on Five Destinations ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4854,7 +4854,7 @@ bulletPosition = [
         "id": "an2-kammakaranavagga",
         "name": "AN 2.1–10 : Kammakaraṇavagga",
         "nameEn": "AN 2.1–10 : Punishments",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4863,7 +4863,7 @@ bulletPosition = [
         "id": "an2-adhikaranavagga",
         "name": "AN 2.11–20 : Adhikaraṇavagga",
         "nameEn": "AN 2.11–20 : Disciplinary Issues ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4872,7 +4872,7 @@ bulletPosition = [
         "id": "an2-balavagga",
         "name": "AN 2.21–31 : Bālavagga",
         "nameEn": "AN 2.21–31 : Fools",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4881,7 +4881,7 @@ bulletPosition = [
         "id": "an2-samacittavagga",
         "name": "AN 2.32–41 : Samacittavagga",
         "nameEn": "AN 2.32–41 : Peaceful Mind ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4890,7 +4890,7 @@ bulletPosition = [
         "id": "an2-parisavagga",
         "name": "AN 2.42–51 : Parisavagga",
         "nameEn": "AN 2.42–51 : Assemblies",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4899,7 +4899,7 @@ bulletPosition = [
         "id": "an2-puggalavagga",
         "name": "AN 2.52–63 : Puggalavagga",
         "nameEn": "AN 2.52–63 : Persons",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4908,7 +4908,7 @@ bulletPosition = [
         "id": "an2-sukhavagga",
         "name": "AN 2.64–76 : Sukhavagga",
         "nameEn": "AN 2.64–76 : Happiness",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4917,7 +4917,7 @@ bulletPosition = [
         "id": "an2-sanimittavagga",
         "name": "AN 2.77–86 : Sanimittavagga",
         "nameEn": "AN 2.77–86 : With a Foundation ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4926,7 +4926,7 @@ bulletPosition = [
         "id": "an2-dhammavagga",
         "name": "AN 2.87–97 : Dhammavagga",
         "nameEn": "AN 2.87–97 : Two Things",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4935,7 +4935,7 @@ bulletPosition = [
         "id": "an2-balavagga2",
         "name": "AN 2.98–117 : Bālavagga",
         "nameEn": "AN 2.98–117 : Fools",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4944,7 +4944,7 @@ bulletPosition = [
         "id": "an2-asaduppajahavagga",
         "name": "AN 2.118–129 : Āsāduppajahavagga",
         "nameEn": "AN 2.118–129 : Hopes That Are Hard to Give Up ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4953,7 +4953,7 @@ bulletPosition = [
         "id": "an2-ayacanavagga",
         "name": "AN 2.130–140 : Āyācanavagga",
         "nameEn": "AN 2.130–140 : Aspiration ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4962,7 +4962,7 @@ bulletPosition = [
         "id": "an2-danavagga",
         "name": "AN 2.141–150 : Dānavagga",
         "nameEn": "AN 2.141–150 : Giving",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4971,7 +4971,7 @@ bulletPosition = [
         "id": "an2-santharavagga",
         "name": "AN 2.151–162 : Santhāravagga",
         "nameEn": "AN 2.151–162 : Welcome",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4980,7 +4980,7 @@ bulletPosition = [
         "id": "an2-samapattivagga",
         "name": "AN 2.163–179 : Samāpattivagga",
         "nameEn": "AN 2.163–179 : Attainment",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4989,7 +4989,7 @@ bulletPosition = [
         "id": "an2-kodhapeyyalavagga",
         "name": "AN 2.180–229 : Kodhapeyyālavagga",
         "nameEn": "AN 2.180–229 : Abbreviated Texts Beginning with Anger",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -4998,7 +4998,7 @@ bulletPosition = [
         "id": "an2-akusalapeyyalavagga",
         "name": "AN 2.230–279 : Akusalapeyyālavagga",
         "nameEn": "AN 2.230–279 : Abbreviated Texts Beginning with the Unskillful",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5007,7 +5007,7 @@ bulletPosition = [
         "id": "an2-vinayapeyyalavagga",
         "name": "AN 2.280–309 : Vinayapeyyālavagga",
         "nameEn": "AN 2.280–309 : Abbreviated Texts on Monastic Training",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5016,7 +5016,7 @@ bulletPosition = [
         "id": "an2-ragapeyyalavagga",
         "name": "AN 2.310–479 : Rāgapeyyālavagga",
         "nameEn": "AN 2.310–479 : Abbreviated Texts Beginning with Greed",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5025,7 +5025,7 @@ bulletPosition = [
         "id": "an3-balavagga",
         "name": "AN 3.1–10 : Bālavagga",
         "nameEn": "AN 3.1–10 : Fools",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5034,7 +5034,7 @@ bulletPosition = [
         "id": "an3-rathakaravagga",
         "name": "AN 3.11–20 : Rathakāravagga",
         "nameEn": "AN 3.11–20 : The Chariot-maker",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5043,7 +5043,7 @@ bulletPosition = [
         "id": "an3-puggalavagga",
         "name": "AN 3.21–30 : Puggalavagga",
         "nameEn": "AN 3.21–30 : Persons",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5052,7 +5052,7 @@ bulletPosition = [
         "id": "an3-devadutavagga",
         "name": "AN 3.31–40 : Devadūtavagga",
         "nameEn": "AN 3.31–40 : Messengers of the Gods ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5061,7 +5061,7 @@ bulletPosition = [
         "id": "an3-culavagga",
         "name": "AN 3.41–50 : Cūḷavagga",
         "nameEn": "AN 3.41–50 : A Short Chapter",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5070,7 +5070,7 @@ bulletPosition = [
         "id": "an3-brahmanavagga",
         "name": "AN 3.51–60 : Brāhmaṇavagga",
         "nameEn": "AN 3.51–60 : Brahmins",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5079,7 +5079,7 @@ bulletPosition = [
         "id": "an3-mahavagga",
         "name": "AN 3.61–70 : Mahāvagga",
         "nameEn": "AN 3.61–70 : The Great Chapter",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5088,7 +5088,7 @@ bulletPosition = [
         "id": "an3-anandavagga",
         "name": "AN 3.71–80 : Ānandavagga",
         "nameEn": "AN 3.71–80 : With Ānanda",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5097,7 +5097,7 @@ bulletPosition = [
         "id": "an3-samanavagga",
         "name": "AN 3.81–91 : Samaṇavagga",
         "nameEn": "AN 3.81–91 : Ascetics",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5106,7 +5106,7 @@ bulletPosition = [
         "id": "an3-lonakapallavagga",
         "name": "AN 3.92–102 : Loṇakapallavagga",
         "nameEn": "AN 3.92–102 : A Lump of Salt ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5115,7 +5115,7 @@ bulletPosition = [
         "id": "an3-sambodhavagga",
         "name": "AN 3.103–112 : Sambodhavagga",
         "nameEn": "AN 3.103–112 : Awakening",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5124,7 +5124,7 @@ bulletPosition = [
         "id": "an3-apayikavagga",
         "name": "AN 3.113–122 : Āpāyikavagga",
         "nameEn": "AN 3.113–122 : Bound for Loss",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5133,7 +5133,7 @@ bulletPosition = [
         "id": "an3-kusinaravagga",
         "name": "AN 3.123–132 : Kusināravagga",
         "nameEn": "AN 3.123–132 : At Kusināra",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5142,7 +5142,7 @@ bulletPosition = [
         "id": "an3-yodhajivavagga",
         "name": "AN 3.133–145 : Yodhājīvavagga",
         "nameEn": "AN 3.133–145 : A Warrior ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5151,7 +5151,7 @@ bulletPosition = [
         "id": "an3-mangalavagga",
         "name": "AN 3.146–155 : Maṅgalavagga",
         "nameEn": "AN 3.146–155 : Good Fortune ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5160,7 +5160,7 @@ bulletPosition = [
         "id": "an3-patipadavagga",
         "name": "AN 3.156–162 : Patipadāvagga",
         "nameEn": "AN 3.156–162 : Practice",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5169,7 +5169,7 @@ bulletPosition = [
         "id": "an3-kammapathapeyyavagga",
         "name": "AN 3.163–182 : Kammapathapeyyāvagga",
         "nameEn": "AN 3.163–182 : Ways of Performing Deeds",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5178,7 +5178,7 @@ bulletPosition = [
         "id": "an3-ragadipeyyalavagga",
         "name": "AN 3.183–352 : Rāgādipeyyālavagga",
         "nameEn": "AN 3.183–352 : Abbreviated Texts Beginning with Greed",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5187,7 +5187,7 @@ bulletPosition = [
         "id": "an4-bhandagamavagga",
         "name": "AN 4.1–10 : Bhaṇḍagāmavagga",
         "nameEn": "AN 4.1–10 : At Bhaṇḍa Village ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5196,7 +5196,7 @@ bulletPosition = [
         "id": "an4-caravagga",
         "name": "AN 4.11–20 : Caravagga",
         "nameEn": "AN 4.11–20 : Walking",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5205,7 +5205,7 @@ bulletPosition = [
         "id": "an4-uruvelavagga",
         "name": "AN 4.21–30 : Uruvelavagga",
         "nameEn": "AN 4.21–30 : At Uruvelā",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5214,7 +5214,7 @@ bulletPosition = [
         "id": "an4-cakkavagga",
         "name": "AN 4.31–40 : Cakkavagga",
         "nameEn": "AN 4.31–40 : Situations ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5223,7 +5223,7 @@ bulletPosition = [
         "id": "an4-rohitassavagga",
         "name": "AN 4.41–50 : Rohitassavagga",
         "nameEn": "AN 4.41–50 : With Rohitassa ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5232,7 +5232,7 @@ bulletPosition = [
         "id": "an4-punnabhisandavagga",
         "name": "AN 4.51–60 : Puññābhisandavagga",
         "nameEn": "AN 4.51–60 : Overflowing Merit",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5241,7 +5241,7 @@ bulletPosition = [
         "id": "an4-pattakammavagga",
         "name": "AN 4.61–70 : Pattakammavagga",
         "nameEn": "AN 4.61–70 : Deeds of Substance",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5250,7 +5250,7 @@ bulletPosition = [
         "id": "an4-apannakavagga",
         "name": "AN 4.71–80 : Apaṇṇakavagga",
         "nameEn": "AN 4.71–80 : Guaranteed ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5259,7 +5259,7 @@ bulletPosition = [
         "id": "an4-macalavagga",
         "name": "AN 4.81–90 : Macalavagga",
         "nameEn": "AN 4.81–90 : Confirmed ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5268,7 +5268,7 @@ bulletPosition = [
         "id": "an4-asuravagga",
         "name": "AN 4.91–100 : Asuravagga",
         "nameEn": "AN 4.91–100 : Demons ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5277,7 +5277,7 @@ bulletPosition = [
         "id": "an4-valahakavagga",
         "name": "AN 4.101–110 : Valāhakavagga",
         "nameEn": "AN 4.101–110 : Gods of the Clouds ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5286,7 +5286,7 @@ bulletPosition = [
         "id": "an4-kesivagga",
         "name": "AN 4.111–120 : Kesivagga",
         "nameEn": "AN 4.111–120 : With Kesi",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5295,7 +5295,7 @@ bulletPosition = [
         "id": "an4-bhayavagga",
         "name": "AN 4.121–130 : Bhayavagga",
         "nameEn": "AN 4.121–130 : Perils",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5304,7 +5304,7 @@ bulletPosition = [
         "id": "an4-puggalavagga",
         "name": "AN 4.131–140 : Puggalavagga",
         "nameEn": "AN 4.131–140 : Persons",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5313,7 +5313,7 @@ bulletPosition = [
         "id": "an4-abhavagga",
         "name": "AN 4.141–150 : Ābhāvagga",
         "nameEn": "AN 4.141–150 : Brightness",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5322,7 +5322,7 @@ bulletPosition = [
         "id": "an4-indriyavagga",
         "name": "AN 4.151–160 : Indriyavagga",
         "nameEn": "AN 4.151–160 : Faculties",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5331,7 +5331,7 @@ bulletPosition = [
         "id": "an4-patipadavagga",
         "name": "AN 4.161–170 : Paṭipadāvagga",
         "nameEn": "AN 4.161–170 : Practice",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5340,7 +5340,7 @@ bulletPosition = [
         "id": "an4-sancetaniyavagga",
         "name": "AN 4.171–180 : Sañcetaniyavagga",
         "nameEn": "AN 4.171–180 : Intention ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5349,7 +5349,7 @@ bulletPosition = [
         "id": "an4-brahmanavagga",
         "name": "AN 4.181–190 : Brāhmaṇavagga",
         "nameEn": "AN 4.181–190 : Brahmins",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5358,7 +5358,7 @@ bulletPosition = [
         "id": "an4-mahavagga",
         "name": "AN 4.191–200 : Mahāvagga",
         "nameEn": "AN 4.191–200 : The Great Chapter",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5367,7 +5367,7 @@ bulletPosition = [
         "id": "an4-sappurisavagga",
         "name": "AN 4.201–210 : Sappurisavagga",
         "nameEn": "AN 4.201–210 : A Good Person",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5376,7 +5376,7 @@ bulletPosition = [
         "id": "an4-parisavagga",
         "name": "AN 4.211–220 : Parisāvagga",
         "nameEn": "AN 4.211–220 : Assemblies",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5385,7 +5385,7 @@ bulletPosition = [
         "id": "an4-duccaritavagga",
         "name": "AN 4.221–231 : Duccaritavagga",
         "nameEn": "AN 4.221–231 : Bad Conduct ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5394,7 +5394,7 @@ bulletPosition = [
         "id": "an4-kammavagga",
         "name": "AN 4.232–242 : Kammavagga",
         "nameEn": "AN 4.232–242 : Deeds",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5403,7 +5403,7 @@ bulletPosition = [
         "id": "an4-apattibhayavagga",
         "name": "AN 4.243–253 : Āpattibhayavagga",
         "nameEn": "AN 4.243–253 : Perils of Offenses",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5412,7 +5412,7 @@ bulletPosition = [
         "id": "an4-abhinnavagga",
         "name": "AN 4.254–263 : Abhiññāvagga",
         "nameEn": "AN 4.254–263 : Direct Knowledges",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5421,7 +5421,7 @@ bulletPosition = [
         "id": "an4-kammapathavagga",
         "name": "AN 4.264–273 : Kammapathavagga",
         "nameEn": "AN 4.264–273 : Ways of Performing Deeds",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5430,7 +5430,7 @@ bulletPosition = [
         "id": "an4-ragapeyyala",
         "name": "AN 4.274–783 : Rāgapeyyāla",
         "nameEn": "AN 4.274–783 : Abbreviated Texts Beginning with Greed",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5439,7 +5439,7 @@ bulletPosition = [
         "id": "an5-sekhabalavagga",
         "name": "AN 5.1–10 : Sekhabalavagga",
         "nameEn": "AN 5.1–10 : Powers of a Trainee ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5448,7 +5448,7 @@ bulletPosition = [
         "id": "an5-balavagga",
         "name": "AN 5.11–20 : Balavagga",
         "nameEn": "AN 5.11–20 : Powers",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5457,7 +5457,7 @@ bulletPosition = [
         "id": "an5-pancangikavagga",
         "name": "AN 5.21–30 : Pañcaṅgikavagga",
         "nameEn": "AN 5.21–30 : Five Factors",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5466,7 +5466,7 @@ bulletPosition = [
         "id": "an5-sumanavagga",
         "name": "AN 5.31–40 : Sumanavagga",
         "nameEn": "AN 5.31–40 : With Sumanā",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5475,7 +5475,7 @@ bulletPosition = [
         "id": "an5-mundarajavagga",
         "name": "AN 5.41–50 : Muṇḍarājavagga",
         "nameEn": "AN 5.41–50 : With King Muṇḍa ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5484,7 +5484,7 @@ bulletPosition = [
         "id": "an5-nivaranavagga",
         "name": "AN 5.51–60 : Nīvaraṇavagga",
         "nameEn": "AN 5.51–60 : Hindrances ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5493,7 +5493,7 @@ bulletPosition = [
         "id": "an5-sannavagga",
         "name": "AN 5.61–70 : Saññāvagga",
         "nameEn": "AN 5.61–70 : Perceptions ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5502,7 +5502,7 @@ bulletPosition = [
         "id": "an5-yodhajivavagga",
         "name": "AN 5.71–80 : Yodhājīvavagga",
         "nameEn": "AN 5.71–80 : A Warrior ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5511,7 +5511,7 @@ bulletPosition = [
         "id": "an5-theravagga",
         "name": "AN 5.81–90 : Theravagga",
         "nameEn": "AN 5.81–90 : Senior Mendicants ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5520,7 +5520,7 @@ bulletPosition = [
         "id": "an5-kakudhavagga",
         "name": "AN 5.91–100 : Kakudhavagga",
         "nameEn": "AN 5.91–100 : With Kakudha ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5529,7 +5529,7 @@ bulletPosition = [
         "id": "an5-phasuviharavagga",
         "name": "AN 5.101–110 : Phāsuvihāravagga",
         "nameEn": "AN 5.101–110 : Living Comfortably ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5538,7 +5538,7 @@ bulletPosition = [
         "id": "an5-andhakavindavagga",
         "name": "AN 5.111–120 : Andhakavindavagga",
         "nameEn": "AN 5.111–120 : At Andhakavinda ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5547,7 +5547,7 @@ bulletPosition = [
         "id": "an5-gilanavagga",
         "name": "AN 5.121–130 : Gilānavagga",
         "nameEn": "AN 5.121–130 : Sick ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5556,7 +5556,7 @@ bulletPosition = [
         "id": "an5-rajavagga",
         "name": "AN 5.131–140 : Rājavagga",
         "nameEn": "AN 5.131–140 : Kings ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5565,7 +5565,7 @@ bulletPosition = [
         "id": "an5-tikandakivagga",
         "name": "AN 5.141–150 : Tikaṇḍakīvagga",
         "nameEn": "AN 5.141–150 : At Tikaṇḍakī ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5574,7 +5574,7 @@ bulletPosition = [
         "id": "an5-saddhammavagga",
         "name": "AN 5.151–160 : Saddhammavagga",
         "nameEn": "AN 5.151–160 : The True Teaching ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5583,7 +5583,7 @@ bulletPosition = [
         "id": "an5-aghatavagga",
         "name": "AN 5.161–170 : Āghātavagga",
         "nameEn": "AN 5.161–170 : Resentment ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5592,7 +5592,7 @@ bulletPosition = [
         "id": "an5-upasakavagga",
         "name": "AN 5.171–180 : Upāsakavagga",
         "nameEn": "AN 5.171–180 : A Lay Follower ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5601,7 +5601,7 @@ bulletPosition = [
         "id": "an5-arannavagga",
         "name": "AN 5.181–190 : Araññavagga",
         "nameEn": "AN 5.181–190 : Wilderness Dwellers ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5610,7 +5610,7 @@ bulletPosition = [
         "id": "an5-brahmanavagga",
         "name": "AN 5.191–200 : Brāhmaṇavagga",
         "nameEn": "AN 5.191–200 : Brahmins ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5619,7 +5619,7 @@ bulletPosition = [
         "id": "an5-kimilavagga",
         "name": "AN 5.201–210 : Kimilavagga",
         "nameEn": "AN 5.201–210 : With Kimbila ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5628,7 +5628,7 @@ bulletPosition = [
         "id": "an5-akkosakavagga",
         "name": "AN 5.211–220 : Akkosakavagga",
         "nameEn": "AN 5.211–220 : Abuse ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5637,7 +5637,7 @@ bulletPosition = [
         "id": "an5-dighacarikavagga",
         "name": "AN 5.221–230 : Dīghacārikavagga",
         "nameEn": "AN 5.221–230 : Long Wandering ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5646,7 +5646,7 @@ bulletPosition = [
         "id": "an5-avasikavagga",
         "name": "AN 5.231–240 : Āvāsikavagga",
         "nameEn": "AN 5.231–240 : A Resident Mendicant ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5655,7 +5655,7 @@ bulletPosition = [
         "id": "an5-duccaritavagga",
         "name": "AN 5.241–250 : Duccaritavagga",
         "nameEn": "AN 5.241–250 : Bad Conduct ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5664,7 +5664,7 @@ bulletPosition = [
         "id": "an5-upasampadavagga",
         "name": "AN 5.251–271 : Upasampadāvagga",
         "nameEn": "AN 5.251–271 : Ordination ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5673,7 +5673,7 @@ bulletPosition = [
         "id": "an5-sammutipeyyala",
         "name": "AN 5.272–285 : Sammutipeyyāla",
         "nameEn": "AN 5.272–285 : Abbreviated Texts on Appointments ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5682,7 +5682,7 @@ bulletPosition = [
         "id": "an5-sikkhapadapeyyala",
         "name": "AN 5.286–302 : Sikkhāpadapeyyāla",
         "nameEn": "AN 5.286–302 : Abbreviated Texts on Training Rules ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5691,7 +5691,7 @@ bulletPosition = [
         "id": "an5-ragapeyyala",
         "name": "AN 5.303–1152 : Rāgapeyyāla",
         "nameEn": "AN 5.303–1152 : Abbreviated Texts Beginning With Greed ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5700,7 +5700,7 @@ bulletPosition = [
         "id": "an6-ahuneyyavagga",
         "name": "AN 6.1–10 : Āhuneyyavagga",
         "nameEn": "AN 6.1–10 : Worthy of Offerings ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5709,7 +5709,7 @@ bulletPosition = [
         "id": "an6-saraniyavagga",
         "name": "AN 6.11–20 : Sāraṇīyavagga",
         "nameEn": "AN 6.11–20 : Warm-hearted ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5718,7 +5718,7 @@ bulletPosition = [
         "id": "an6-anuttariyavagga",
         "name": "AN 6.21–30 : Anuttariyavagga",
         "nameEn": "AN 6.21–30 : Unsurpassable ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5727,7 +5727,7 @@ bulletPosition = [
         "id": "an6-pathamapannasaka-devatavagga",
         "name": "AN 6.31–42 : Devatāvagga",
         "nameEn": "AN 6.31–42 : Deities ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5736,7 +5736,7 @@ bulletPosition = [
         "id": "an6-dhammikavagga",
         "name": "AN 6.43–54 : Dhammikavagga",
         "nameEn": "AN 6.43–54 : With Dhammika",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5745,7 +5745,7 @@ bulletPosition = [
         "id": "an6-mahavagga",
         "name": "AN 6.55–64 : Mahāvagga",
         "nameEn": "AN 6.55–64 : The Great Chapter",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5754,7 +5754,7 @@ bulletPosition = [
         "id": "an6-dutiyapannasaka-devatavagga",
         "name": "AN 6.65–74 : Devatāvagga",
         "nameEn": "AN 6.65–74 : Deities ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5763,7 +5763,7 @@ bulletPosition = [
         "id": "an6-arahattavagga",
         "name": "AN 6.75–84 : Arahattavagga",
         "nameEn": "AN 6.75–84 : Perfection ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5772,7 +5772,7 @@ bulletPosition = [
         "id": "an6-sitivagga",
         "name": "AN 6.85–95 : Sītivagga",
         "nameEn": "AN 6.85–95 : Coolness ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5781,7 +5781,7 @@ bulletPosition = [
         "id": "an6-anisamsavagga",
         "name": "AN 6.96–106 : Ānisaṁsavagga",
         "nameEn": "AN 6.96–106 : Benefit ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5790,7 +5790,7 @@ bulletPosition = [
         "id": "an6-tikavagga",
         "name": "AN 6.107–116 : Tikavagga",
         "nameEn": "AN 6.107–116 : Triads ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5799,7 +5799,7 @@ bulletPosition = [
         "id": "an6-samannavagga",
         "name": "AN 6.117–139 : Sāmaññavagga",
         "nameEn": "AN 6.117–139 : The Ascetic Life ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5808,7 +5808,7 @@ bulletPosition = [
         "id": "an6-ragapeyyala",
         "name": "AN 6.140–649 : Rāgapeyyāla",
         "nameEn": "AN 6.140–649 : undefined",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5817,7 +5817,7 @@ bulletPosition = [
         "id": "an7-dhanavagga",
         "name": "AN 7.1–10 : Dhanavagga",
         "nameEn": "AN 7.1–10 : Wealth ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5826,7 +5826,7 @@ bulletPosition = [
         "id": "an7-anusayavagga",
         "name": "AN 7.11–20 : Anusayavagga",
         "nameEn": "AN 7.11–20 : Tendencies ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5835,7 +5835,7 @@ bulletPosition = [
         "id": "an7-vajjisattakavagga",
         "name": "AN 7.21–31 : Vajjisattakavagga",
         "nameEn": "AN 7.21–31 : The Vajji Seven ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5844,7 +5844,7 @@ bulletPosition = [
         "id": "an7-devatavagga",
         "name": "AN 7.32–43 : Devatāvagga",
         "nameEn": "AN 7.32–43 : Deities ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5853,7 +5853,7 @@ bulletPosition = [
         "id": "an7-mahayannavagga",
         "name": "AN 7.44–53 : Mahāyaññavagga",
         "nameEn": "AN 7.44–53 : A Great Sacrifice ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5862,7 +5862,7 @@ bulletPosition = [
         "id": "an7-abyakatavagga",
         "name": "AN 7.54–64 : Abyākatavagga",
         "nameEn": "AN 7.54–64 : The Undeclared Points ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5871,7 +5871,7 @@ bulletPosition = [
         "id": "an7-mahavagga",
         "name": "AN 7.65–74 : Mahāvagga",
         "nameEn": "AN 7.65–74 : The Great Chapter ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5880,7 +5880,7 @@ bulletPosition = [
         "id": "an7-vinayavagga",
         "name": "AN 7.75–84 : Vinayavagga",
         "nameEn": "AN 7.75–84 : The Monastic Law ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5889,7 +5889,7 @@ bulletPosition = [
         "id": "an7-samanavagga",
         "name": "AN 7.85–94 : Samaṇavagga",
         "nameEn": "AN 7.85–94 : Ascetics ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5898,7 +5898,7 @@ bulletPosition = [
         "id": "an7-ahuneyyavagga",
         "name": "AN 7.95–614 : Āhuneyyavagga",
         "nameEn": "AN 7.95–614 : Worthy of Offerings ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5907,7 +5907,7 @@ bulletPosition = [
         "id": "an7-ragapeyyala",
         "name": "AN 7.615–1124 : Rāgapeyyāla",
         "nameEn": "AN 7.615–1124 : Abbreviated Texts Beginning With Greed ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5916,7 +5916,7 @@ bulletPosition = [
         "id": "an8-mettavagga",
         "name": "AN 8.1–10 : Mettāvagga",
         "nameEn": "AN 8.1–10 : Love ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5925,7 +5925,7 @@ bulletPosition = [
         "id": "an8-mahavagga",
         "name": "AN 8.11–20 : Mahāvagga",
         "nameEn": "AN 8.11–20 : The Great Chapter ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5934,7 +5934,7 @@ bulletPosition = [
         "id": "an8-gahapativagga",
         "name": "AN 8.21–30 : Gahapativagga",
         "nameEn": "AN 8.21–30 : Householders ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5943,7 +5943,7 @@ bulletPosition = [
         "id": "an8-danavagga",
         "name": "AN 8.31–40 : Dānavagga",
         "nameEn": "AN 8.31–40 : Giving",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5952,7 +5952,7 @@ bulletPosition = [
         "id": "an8-uposathavagga",
         "name": "AN 8.41–50 : Uposathavagga",
         "nameEn": "AN 8.41–50 : Sabbath ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5961,7 +5961,7 @@ bulletPosition = [
         "id": "an8-gotamivagga",
         "name": "AN 8.51–60 : Gotamīvagga",
         "nameEn": "AN 8.51–60 : Gotamī ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5970,7 +5970,7 @@ bulletPosition = [
         "id": "an8-bhumicalavagga",
         "name": "AN 8.61–70 : Bhūmicālavagga",
         "nameEn": "AN 8.61–70 : Earthquakes ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5979,7 +5979,7 @@ bulletPosition = [
         "id": "an8-yamakavagga",
         "name": "AN 8.71–80 : Yamakavagga",
         "nameEn": "AN 8.71–80 : Pairs ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5988,7 +5988,7 @@ bulletPosition = [
         "id": "an8-sativagga",
         "name": "AN 8.81–90 : Sativagga",
         "nameEn": "AN 8.81–90 : Mindfulness ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -5997,7 +5997,7 @@ bulletPosition = [
         "id": "an8-samannavagga",
         "name": "AN 8.91–117 : Sāmaññavagga",
         "nameEn": "AN 8.91–117 : Similarity ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6006,7 +6006,7 @@ bulletPosition = [
         "id": "an8-ragapeyyala",
         "name": "AN 8.118–627 : Rāgapeyyāla",
         "nameEn": "AN 8.118–627 : Abbreviated Texts Beginning With Greed ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6015,7 +6015,7 @@ bulletPosition = [
         "id": "an9-sambodhivagga",
         "name": "AN 9.1–10 : Sambodhivagga",
         "nameEn": "AN 9.1–10 : Awakening ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6024,7 +6024,7 @@ bulletPosition = [
         "id": "an9-sihanadavagga",
         "name": "AN 9.11–20 : Sīhanādavagga",
         "nameEn": "AN 9.11–20 : The Lion’s Roar ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6033,7 +6033,7 @@ bulletPosition = [
         "id": "an9-sattavasavagga",
         "name": "AN 9.21–31 : Sattāvāsavagga",
         "nameEn": "AN 9.21–31 : Abodes of Sentient Beings ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6042,7 +6042,7 @@ bulletPosition = [
         "id": "an9-mahavagga",
         "name": "AN 9.32–41 : Mahāvagga",
         "nameEn": "AN 9.32–41 : The Great Chapter ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6051,7 +6051,7 @@ bulletPosition = [
         "id": "an9-samannavagga",
         "name": "AN 9.42–51 : Sāmaññavagga",
         "nameEn": "AN 9.42–51 : Similarity ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6060,7 +6060,7 @@ bulletPosition = [
         "id": "an9-khemavagga",
         "name": "AN 9.52–62 : Khemavagga",
         "nameEn": "AN 9.52–62 : A Safe Place ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6069,7 +6069,7 @@ bulletPosition = [
         "id": "an9-satipatthanavagga",
         "name": "AN 9.63–72 : Satipaṭṭhānavagga",
         "nameEn": "AN 9.63–72 : Mindfulness Meditation ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6078,7 +6078,7 @@ bulletPosition = [
         "id": "an9-sammappadhanavagga",
         "name": "AN 9.73–82 : Sammappadhānavagga",
         "nameEn": "AN 9.73–82 : Right Efforts ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6087,7 +6087,7 @@ bulletPosition = [
         "id": "an9-iddhipadavagga",
         "name": "AN 9.83–92 : Iddhipādavagga",
         "nameEn": "AN 9.83–92 : Bases of Psychic Power ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6096,7 +6096,7 @@ bulletPosition = [
         "id": "an9-ragapeyyala",
         "name": "AN 9.93–432 : Rāgapeyyāla",
         "nameEn": "AN 9.93–432 : Abbreviated Texts Beginning With Greed ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6105,7 +6105,7 @@ bulletPosition = [
         "id": "an10-anisamsavagga",
         "name": "AN 10.1–10 : Ānisaṁsavagga",
         "nameEn": "AN 10.1–10 : Benefits ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6114,7 +6114,7 @@ bulletPosition = [
         "id": "an10-nathavagga",
         "name": "AN 10.11–20 : Nāthavagga",
         "nameEn": "AN 10.11–20 : A Protector ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6123,7 +6123,7 @@ bulletPosition = [
         "id": "an10-mahavagga",
         "name": "AN 10.21–30 : Mahāvagga",
         "nameEn": "AN 10.21–30 : The Great Chapter ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6132,7 +6132,7 @@ bulletPosition = [
         "id": "an10-pathamapannasaka-upalivagga",
         "name": "AN 10.31–40 : Upālivagga",
         "nameEn": "AN 10.31–40 : With Upāli ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6141,7 +6141,7 @@ bulletPosition = [
         "id": "an10-akkosavagga",
         "name": "AN 10.41–50 : Akkosavagga",
         "nameEn": "AN 10.41–50 : Abuse ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6150,7 +6150,7 @@ bulletPosition = [
         "id": "an10-sacittavagga",
         "name": "AN 10.51–60 : Sacittavagga",
         "nameEn": "AN 10.51–60 : Your Own Mind ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6159,7 +6159,7 @@ bulletPosition = [
         "id": "an10-yamakavagga",
         "name": "AN 10.61–70 : Yamakavagga",
         "nameEn": "AN 10.61–70 : Pairs ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6168,7 +6168,7 @@ bulletPosition = [
         "id": "an10-akankhavagga",
         "name": "AN 10.71–80 : Ākaṅkhavagga",
         "nameEn": "AN 10.71–80 : If You Want ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6177,7 +6177,7 @@ bulletPosition = [
         "id": "an10-theravagga",
         "name": "AN 10.81–90 : Theravagga",
         "nameEn": "AN 10.81–90 : Senior Mendicants ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6186,7 +6186,7 @@ bulletPosition = [
         "id": "an10-dutiyapannasaka-upalivagga",
         "name": "AN 10.91–100 : Upālivagga",
         "nameEn": "AN 10.91–100 : With Upāli ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6195,7 +6195,7 @@ bulletPosition = [
         "id": "an10-samanasannavagga",
         "name": "AN 10.101–112 : Samaṇasaññāvagga",
         "nameEn": "AN 10.101–112 : Perceptions for Ascetics ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6204,7 +6204,7 @@ bulletPosition = [
         "id": "an10-paccorohanivagga",
         "name": "AN 10.113–122 : Paccorohaṇivagga",
         "nameEn": "AN 10.113–122 : The Ceremony of Descent ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6213,7 +6213,7 @@ bulletPosition = [
         "id": "an10-parisuddhavagga",
         "name": "AN 10.123–133 : Parisuddhavagga",
         "nameEn": "AN 10.123–133 : Purified ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6222,7 +6222,7 @@ bulletPosition = [
         "id": "an10-tatiyapannasaka-sadhuvagga",
         "name": "AN 10.134–144 : Sādhuvagga",
         "nameEn": "AN 10.134–144 : Good ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6231,7 +6231,7 @@ bulletPosition = [
         "id": "an10-ariyavagga",
         "name": "AN 10.145–154 : Ariyavagga",
         "nameEn": "AN 10.145–154 : The Noble Path ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6240,7 +6240,7 @@ bulletPosition = [
         "id": "an10-puggalavagga",
         "name": "AN 10.155–166 : Puggalavagga",
         "nameEn": "AN 10.155–166 : Persons ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6249,7 +6249,7 @@ bulletPosition = [
         "id": "an10-janussonivagga",
         "name": "AN 10.167–177 : Jāṇussoṇivagga",
         "nameEn": "AN 10.167–177 : With Jāṇussoṇi ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6258,7 +6258,7 @@ bulletPosition = [
         "id": "an10-catutthapannasaka-sadhuvagga",
         "name": "AN 10.178–188 : Sādhuvagga",
         "nameEn": "AN 10.178–188 : Good ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6267,7 +6267,7 @@ bulletPosition = [
         "id": "an10-ariyamaggavagga",
         "name": "AN 10.189–198 : Ariyamaggavagga",
         "nameEn": "AN 10.189–198 : The Noble Path ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6276,7 +6276,7 @@ bulletPosition = [
         "id": "an10-ariyapuggalavagga",
         "name": "AN 10.199–210 : Aparapuggalavagga",
         "nameEn": "AN 10.199–210 : Another Chapter on Persons ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6285,7 +6285,7 @@ bulletPosition = [
         "id": "an10-karajakayavagga",
         "name": "AN 10.211–220 : Karajakāyavagga",
         "nameEn": "AN 10.211–220 : The Body Born of Deeds ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6294,7 +6294,7 @@ bulletPosition = [
         "id": "an10-samannavagga",
         "name": "AN 10.221–236 : Sāmaññavagga",
         "nameEn": "AN 10.221–236 : Similarity ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6303,7 +6303,7 @@ bulletPosition = [
         "id": "an10-ragapeyyala",
         "name": "AN 10.237–746 : Rāgapeyyāla",
         "nameEn": "AN 10.237–746 : undefined",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6312,7 +6312,7 @@ bulletPosition = [
         "id": "an11-nissayavagga",
         "name": "AN 11.1–10 : Nissayavagga",
         "nameEn": "AN 11.1–10 : Dependence ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6321,7 +6321,7 @@ bulletPosition = [
         "id": "an11-anussativagga",
         "name": "AN 11.11–21 : Anussativagga",
         "nameEn": "AN 11.11–21 : Recollection ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6330,7 +6330,7 @@ bulletPosition = [
         "id": "an11-samannavagga",
         "name": "AN 11.22–981 : Sāmaññavagga",
         "nameEn": "AN 11.22–981 : Similarity ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6339,7 +6339,7 @@ bulletPosition = [
         "id": "an11-ragapeyyala",
         "name": "AN 11.982–1151 : Rāgapeyyāla",
         "nameEn": "AN 11.982–1151 : Abbreviated Texts Beginning With Greed ",
-        "color": "rgb(169, 201, 214)",
+        "color": "hsl(556.8,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6348,7 +6348,7 @@ bulletPosition = [
         "id": "sn12-satthusuttadi",
         "name": "SN 12.82–92 : Satthusuttādi",
         "nameEn": "SN 12.82–92 : undefined",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6357,7 +6357,7 @@ bulletPosition = [
         "id": "sn12-sikkhasuttadipeyyalaekadasaka",
         "name": "SN 12.93–213 : Sikkhāsuttādipeyyālaekādasaka",
         "nameEn": "SN 12.93–213 : undefined",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6366,7 +6366,7 @@ bulletPosition = [
         "id": "sn22-nakulapituvagga",
         "name": "SN 22.1–11 : Nakulapituvagga",
         "nameEn": "SN 22.1–11 : Nakula’s Father ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6375,7 +6375,7 @@ bulletPosition = [
         "id": "sn22-aniccavagga",
         "name": "SN 22.12–21 : Aniccavagga",
         "nameEn": "SN 22.12–21 : Impermanence ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6384,7 +6384,7 @@ bulletPosition = [
         "id": "sn22-bharavagga",
         "name": "SN 22.22–32 : Bhāravagga",
         "nameEn": "SN 22.22–32 : The Burden ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6393,7 +6393,7 @@ bulletPosition = [
         "id": "sn22-natumhakavagga",
         "name": "SN 22.33–42 : Natumhākavagga",
         "nameEn": "SN 22.33–42 : Not Yours ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6402,7 +6402,7 @@ bulletPosition = [
         "id": "sn22-attadipavagga",
         "name": "SN 22.43–52 : Attadīpavagga",
         "nameEn": "SN 22.43–52 : Be Your Own Island ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6411,7 +6411,7 @@ bulletPosition = [
         "id": "sn22-upayavagga",
         "name": "SN 22.53–62 : Upayavagga",
         "nameEn": "SN 22.53–62 : Involvement ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6420,7 +6420,7 @@ bulletPosition = [
         "id": "sn22-arahantavagga",
         "name": "SN 22.63–72 : Arahantavagga",
         "nameEn": "SN 22.63–72 : The Perfected Ones ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6429,7 +6429,7 @@ bulletPosition = [
         "id": "sn22-khajjaniyavagga",
         "name": "SN 22.73–82 : Khajjanīyavagga",
         "nameEn": "SN 22.73–82 : Itchy ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6438,7 +6438,7 @@ bulletPosition = [
         "id": "sn22-theravagga",
         "name": "SN 22.83–92 : Theravagga",
         "nameEn": "SN 22.83–92 : Senior Mendicants ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6447,7 +6447,7 @@ bulletPosition = [
         "id": "sn22-pupphavagga",
         "name": "SN 22.93–102 : Pupphavagga",
         "nameEn": "SN 22.93–102 : Flowers ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6456,7 +6456,7 @@ bulletPosition = [
         "id": "sn22-antavagga",
         "name": "SN 22.103–112 : Antavagga",
         "nameEn": "SN 22.103–112 : Sides ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6465,7 +6465,7 @@ bulletPosition = [
         "id": "sn22-dhammakathikavagga",
         "name": "SN 22.113–125 : Dhammakathikavagga",
         "nameEn": "SN 22.113–125 : A Dhamma Speaker ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6474,7 +6474,7 @@ bulletPosition = [
         "id": "sn22-avijjavagga",
         "name": "SN 22.126–135 : Avijjāvagga",
         "nameEn": "SN 22.126–135 : Ignorance ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6483,7 +6483,7 @@ bulletPosition = [
         "id": "sn22-kukkulavagga",
         "name": "SN 22.136–149 : Kukkuḷavagga",
         "nameEn": "SN 22.136–149 : Burning Chaff ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6492,7 +6492,7 @@ bulletPosition = [
         "id": "sn22-ditthivagga",
         "name": "SN 22.150–159 : Diṭṭhivagga",
         "nameEn": "SN 22.150–159 : Views ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6501,7 +6501,7 @@ bulletPosition = [
         "id": "sn35-aniccavagga",
         "name": "SN 35.1–12 : Aniccavagga",
         "nameEn": "SN 35.1–12 : Impermanence ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6510,7 +6510,7 @@ bulletPosition = [
         "id": "sn35-yamakavagga",
         "name": "SN 35.13–22 : Yamakavagga",
         "nameEn": "SN 35.13–22 : Pairs ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6519,7 +6519,7 @@ bulletPosition = [
         "id": "sn35-sabbavagga",
         "name": "SN 35.23–32 : Sabbavagga",
         "nameEn": "SN 35.23–32 : The All",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6528,7 +6528,7 @@ bulletPosition = [
         "id": "sn35-jatidhammavagga",
         "name": "SN 35.33–42 : Jātidhammavagga",
         "nameEn": "SN 35.33–42 : Liable to Be Reborn ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6537,7 +6537,7 @@ bulletPosition = [
         "id": "sn35-sabbaaniccavagga",
         "name": "SN 35.43–52 : Sabbaaniccavagga",
         "nameEn": "SN 35.43–52 : All is Impermanent ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6546,7 +6546,7 @@ bulletPosition = [
         "id": "sn35-avijjavagga",
         "name": "SN 35.53–62 : Avijjāvagga",
         "nameEn": "SN 35.53–62 : Ignorance ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6555,7 +6555,7 @@ bulletPosition = [
         "id": "sn35-migajalavagga",
         "name": "SN 35.63–73 : Migajālavagga",
         "nameEn": "SN 35.63–73 : With Migajāla ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6564,7 +6564,7 @@ bulletPosition = [
         "id": "sn35-gilanavagga",
         "name": "SN 35.74–83 : Gilānavagga",
         "nameEn": "SN 35.74–83 : Sick ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6573,7 +6573,7 @@ bulletPosition = [
         "id": "sn35-channavagga",
         "name": "SN 35.84–93 : Channavagga",
         "nameEn": "SN 35.84–93 : With Channa",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6582,7 +6582,7 @@ bulletPosition = [
         "id": "sn35-salavagga",
         "name": "SN 35.94–103 : Saḷavagga",
         "nameEn": "SN 35.94–103 : The Sixes ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6591,7 +6591,7 @@ bulletPosition = [
         "id": "sn35-yogakkhemivagga",
         "name": "SN 35.104–113 : Yogakkhemivagga",
         "nameEn": "SN 35.104–113 : Sanctuary ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6600,7 +6600,7 @@ bulletPosition = [
         "id": "sn35-lokakamagunavagga",
         "name": "SN 35.114–123 : Lokakāmaguṇavagga",
         "nameEn": "SN 35.114–123 : The World and the Kinds of Sensual Stimulation ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6609,7 +6609,7 @@ bulletPosition = [
         "id": "sn35-gahapativagga",
         "name": "SN 35.124–133 : Gahapativagga",
         "nameEn": "SN 35.124–133 : Householders ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6618,7 +6618,7 @@ bulletPosition = [
         "id": "sn35-devadahavagga",
         "name": "SN 35.134–145 : Devadahavagga",
         "nameEn": "SN 35.134–145 : At Devadaha ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6627,7 +6627,7 @@ bulletPosition = [
         "id": "sn35-navapuranavagga",
         "name": "SN 35.146–155 : Navapurāṇavagga",
         "nameEn": "SN 35.146–155 : The Old and the New ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6636,7 +6636,7 @@ bulletPosition = [
         "id": "sn35-nandikkhayavagga",
         "name": "SN 35.156–167 : Nandikkhayavagga",
         "nameEn": "SN 35.156–167 : The End of Relishing ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6645,7 +6645,7 @@ bulletPosition = [
         "id": "sn35-satthipeyyalavagga",
         "name": "SN 35.168–227 : Saṭṭhipeyyālavagga",
         "nameEn": "SN 35.168–227 : Sixty Abbreviated Texts ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6654,7 +6654,7 @@ bulletPosition = [
         "id": "sn35-samuddavagga",
         "name": "SN 35.228–237 : Samuddavagga",
         "nameEn": "SN 35.228–237 : The Ocean ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     },
     {
@@ -6663,7 +6663,7 @@ bulletPosition = [
         "id": "sn35-asivisavagga",
         "name": "SN 35.238–248 : Āsīvisavagga",
         "nameEn": "SN 35.238–248 : The Simile of the Vipers ",
-        "color": "rgb(169, 214, 181)",
+        "color": "hsl(495.6,35%,50%)",
         "radius": 1.5
     }
 ]

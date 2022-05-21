@@ -96,6 +96,7 @@ for (let i = 0; i < data.length; i++) {
     vectorLayer.getSource().addFeature(new ol.Feature({
         geometry: new ol.geom.Point([data[i].x,data[i].y]),
         id : data[i].id,
+        color : data[i].color,
         name : data[i].name,
         nameEn : data[i].nameEn
     }))
@@ -144,7 +145,7 @@ map.on('singleclick', function (event) {
     if (map.hasFeatureAtPixel(event.pixel) === true) {
         var coordinate = event.coordinate;
         const dataMap = map.getFeaturesAtPixel(event.pixel)[0].A;
-        content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a>';
+        content.innerHTML = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a>';
         // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
         overlay.setPosition(coordinate);
     } else {
