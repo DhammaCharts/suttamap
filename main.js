@@ -191,7 +191,7 @@ map.on('singleclick', function (event) {
                   "Content-type": "application/json;charset=UTF-8",
                   "Access-Control-Allow-Origin": "https://www.dhammacharts.org/",
                   "Access-Control-Allow-Methods": "GET",
-                  "Access-Control-Allow-Headers": "Origin"
+                  "Access-Control-Allow-Headers": "Content-Type"
                 }
               }
             )
