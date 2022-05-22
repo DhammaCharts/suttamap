@@ -189,7 +189,7 @@ map.on('singleclick', function (event) {
                 method: "GET",
                 headers: {
                   "Content-type": "application/json;charset=UTF-8",
-                  "Access-Control-Allow-Origin": "https://www.dhammacharts.org",
+                  "Access-Control-Allow-Origin": "dhammacharts.org",
                   "Access-Control-Allow-Methods": "GET",
                   "Access-Control-Allow-Headers": "Content-Type"
                 }
