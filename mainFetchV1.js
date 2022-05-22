@@ -167,27 +167,30 @@ map.on('singleclick', function (event) {
         var coordinate = event.coordinate;
         const dataMap = map.getFeaturesAtPixel(event.pixel)[0].A;
 
-        // GET Request.
-        fetch('https://suttacentral.net/api/suttaplex/'+dataMap.id,{
-                method: "GET",
-                headers: {"Content-type": "application/json;charset=UTF-8"}
-              }
-            )
-            // Handle success
-            .then(response => response.json())  // convert to json
-            .then(json => {
-              const linkData = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '&emsp;</a>';
-              const linkAPI = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/api/suttaplex/'+dataMap.id+'"> API : ' + json[0].translated_title + '&emsp;</a>';
-              content.innerHTML = linkData + '<br>' + linkAPI;
-              // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
-              overlay.setPosition(coordinate);
-            })    //print data to console
-            .catch(err => {
-              console.log('Request Failed', err); //error details will be in the "err" object
-              content.innerHTML = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '&emsp;</a><br>' + "API Fail";
-              // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
-              overlay.setPosition(coordinate);
-            }); // Catch errors
+        // function to handle success
+        function success() {
+            var dataAPI = JSON.parse(this.responseText); //parse the string to JSON
+            console.log(dataAPI);
+            content.innerHTML = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '&emsp;</a><br>' + dataAPI[0].translated_title;
+            // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
+            overlay.setPosition(coordinate);
+        }
+
+        // function to handle error
+        function error(err) {
+            console.log('Request Failed', err); //error details will be in the "err" object
+            content.innerHTML = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '&emsp;</a><br>' + "API Fail";
+            // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
+            overlay.setPosition(coordinate);
+        }
+
+        var xhr = new XMLHttpRequest(); //invoke a new instance of the XMLHttpRequest
+        xhr.onload = success; // call success function if request is successful
+        xhr.onerror = error;  // call error function if request failed
+        xhr.open('GET', 'https://suttacentral.net/api/suttaplex/'+dataMap.id); // open a GET request
+        xhr.send(); // send the request to the server.
+
+
     } else {
         overlay.setPosition(undefined);
         closer.blur();
