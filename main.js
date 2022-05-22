@@ -141,6 +141,23 @@ for (let i = 0; i < data.length; i++) {
         name : data[i].name,
         nameEn : data[i].nameEn
     }))
+
+    // fetch('https://suttacentral.net/api/suttaplex/'+data[i].id,{
+    //         method: "GET",
+    //         headers: {
+    //           "Content-type": "application/json;charset=UTF-8"
+    //         }
+    //       }
+    //     )
+    //     // Handle success
+    //     .then(response => response.json())  // convert to json
+    //     .then(json => {
+    //       if (json[0].translated_title == null) console.log(data[i].id); // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
+    //     })    //print data to console
+    //     .catch(err => {
+    //       // console.log('Request Failed', err); //error details will be in the "err" object
+    //       // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
+    //     }); // Catch errors
 }
 
 
@@ -170,7 +187,12 @@ map.on('singleclick', function (event) {
         // GET Request.
         fetch('https://suttacentral.net/api/suttaplex/'+dataMap.id,{
                 method: "GET",
-                headers: {"Content-type": "application/json;charset=UTF-8"}
+                headers: {
+                  "Content-type": "application/json;charset=UTF-8",
+                  "Access-Control-Allow-Origin": "https://www.dhammacharts.org/",
+                  "Access-Control-Allow-Methods": "GET",
+                  "Access-Control-Allow-Headers": "Origin"
+                }
               }
             )
             // Handle success
