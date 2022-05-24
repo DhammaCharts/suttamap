@@ -124,9 +124,9 @@ var vectorLayer = new ol.layer.Vector({
     style: new ol.style.Style({
         image: new ol.style.Circle({
           fill: fill,
-          stroke: stroke, // for debug
+          // stroke: stroke, // for debug
           // radius : 8
-          radius : deviceType() == "desktop" ? 8 : 10
+          radius : deviceType() == "desktop" ? 8 : 10 // help cliquing on mobile.
         })
     })
 });
