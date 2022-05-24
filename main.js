@@ -124,7 +124,7 @@ var vectorLayer = new ol.layer.Vector({
     style: new ol.style.Style({
         image: new ol.style.Circle({
           fill: fill,
-          stroke: stroke, // for debug
+          // stroke: stroke, // for debug
           radius : 8
         })
     })
