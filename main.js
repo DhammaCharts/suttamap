@@ -126,7 +126,7 @@ var vectorLayer = new ol.layer.Vector({
           fill: fill,
           stroke: stroke, // for debug
           // radius : 8
-          radius : deviceType() == "desktop" ? 8 : 10;
+          radius : deviceType() == "desktop" ? 8 : 10
         })
     })
 });
