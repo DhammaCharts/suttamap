@@ -1,7 +1,7 @@
-// to resize
-// vips dzsave tn_sutta12.png  maptiles6 --layout google --centre --suffix .png
+// to resize to a power of 2
+// vipsthumbnail sut12.png --size 16384x -o resized-%s.png
 // to make PNGtiles
-// vips dzsave tn_sutta12.png  maptiles6 --layout google --centre --suffix .png
+// vips dzsave resized-sut12.png  maptiles7 --layout google --centre --suffix .png
 // padding problem https://stackoverflow.com/questions/56265393/libvips-and-padding-when-doing-image-pyramids
 // To extend with white
 // vips gravity sutta.png south-west 8192 8192 --extend white
@@ -17,16 +17,16 @@
 
 // detect device for marker size //
 
-// const deviceType = () => {
-//     const ua = navigator.userAgent;
-//     if (/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(ua)) {
-//         return "tablet";
-//     }
-//     else if (/Mobile|Android|iP(hone|od)|IEMobile|BlackBerry|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini)/.test(ua)) {
-//         return "mobile";
-//     }
-//     return "desktop";
-// };
+const deviceType = () => {
+    const ua = navigator.userAgent;
+    if (/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(ua)) {
+        return "tablet";
+    }
+    else if (/Mobile|Android|iP(hone|od)|IEMobile|BlackBerry|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini)/.test(ua)) {
+        return "mobile";
+    }
+    return "desktop";
+};
 
 // map
 
@@ -83,7 +83,7 @@ const map = new ol.Map({
     new ol.layer.Tile({
       extent: extent,
         source: new ol.source.TileImage({
-          url: 'maptiles6/{z}/{y}/{x}.png'
+          url: 'maptiles7/{z}/{y}/{x}.png'
         })
     })
   ],
@@ -124,8 +124,9 @@ var vectorLayer = new ol.layer.Vector({
     style: new ol.style.Style({
         image: new ol.style.Circle({
           fill: fill,
-          // stroke: stroke, // for debug
-          radius : 8
+          stroke: stroke, // for debug
+          // radius : 8
+          radius : deviceType() == "desktop" ? 8 : 10;
         })
     })
 });
