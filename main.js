@@ -116,7 +116,7 @@ const data = bulletPosition;
 // add marker layer //
 
 
-const stroke = new ol.style.Stroke({color: 'black', width: 0.1});
+const stroke = new ol.style.Stroke({color: 'black', width: 0.3});
 const fill = new ol.style.Fill({color: "rgba(0, 0, 0, 0)"});
 
 var vectorLayer = new ol.layer.Vector({
@@ -124,7 +124,7 @@ var vectorLayer = new ol.layer.Vector({
     style: new ol.style.Style({
         image: new ol.style.Circle({
           fill: fill,
-          // stroke: stroke, // for debug
+          stroke: stroke, // for debug
           radius : 8
         })
     })
@@ -198,15 +198,18 @@ map.on('singleclick', function (event) {
             // Handle success
             .then(response => response.json())  // convert to json
             .then(json => {
-              const linkData = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '&emsp;</a>';
-              const linkAPI = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/api/suttaplex/'+dataMap.id+'"> API : '+ dataMap.id+' ' + json[0].translated_title + '&emsp;</a>';
+              // const linkData = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '&emsp;</a>';
+              const linkData = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '"> Data : ' + dataMap.nameEn + '&emsp;</a>';
+              // const linkAPI = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/api/suttaplex/'+dataMap.id+'"> API : '+ dataMap.id+' ' + json[0].translated_title + '&emsp;</a>';
+              const linkAPI = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/api/suttaplex/'+dataMap.id+'"> API : ' + json[0].translated_title + '&emsp;</a>';
               content.innerHTML = linkData + '<br>' + linkAPI;
               // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
               overlay.setPosition(coordinate);
             })    //print data to console
             .catch(err => {
               console.log('Request Failed', err); //error details will be in the "err" object
-              content.innerHTML = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '&emsp;</a><br>' + "API Fail";
+              // content.innerHTML = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '&emsp;</a><br>' + "API Fail";
+              content.innerHTML = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '"> Data : ' + dataMap.nameEn + '&emsp;</a><br>' + "API :" + err;
               // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
               overlay.setPosition(coordinate);
             }); // Catch errors
