@@ -36,7 +36,7 @@ dn_name = {
     "dn-name:35.dn32": "Āṭānāṭiyasutta",
     "dn-name:36.dn33": "Saṅgītisutta",
     "dn-name:37.dn34": "Dasuttarasutta"
-}
+};
 
 mn_name = {
     "mn-name:1.mn-mulapannasa": "Mūlapaṇṇāsa",
@@ -209,7 +209,7 @@ mn_name = {
     "mn-name:168.mn150": "Nagaravindeyyasutta",
     "mn-name:169.mn151": "Piṇḍapātapārisuddhisutta",
     "mn-name:170.mn152": "Indriyabhāvanāsutta"
-}
+};
 
 sn_name = {
     "sn-name:1.sn-sagathavaggasamyutta": "Sagāthāvaggasaṁyutta",
@@ -2331,7 +2331,7 @@ sn_name = {
     "sn-name:2117.sn56.126-128": "Pettimanussanirayādisutta",
     "sn-name:2118.sn56.129-130": "Pettidevanirayādisutta",
     "sn-name:2119.sn56.131": "Pettidevapettivisayasutta"
-}
+};
 
 an_name = {
     "an-name:1.an1": "Ekakanipāta",
@@ -3971,7 +3971,7 @@ an_name = {
     "an-name:1635.an11.982": "",
     "an-name:1636.an11.983-991": "",
     "an-name:1637.an11.992-1151": ""
-}
+};
 
 kn_name = [
     {
@@ -6676,7 +6676,7 @@ kn_name = [
         "mil-name:281.mil-nigamana": "Nigamana",
         "mil-name:282.mil8": "Nigamana"
     }
-]
+];
 
 // add the code below
-module.exports = { dn_name, mn_name, sn_name, an_name };
+module.exports = { dn_name, mn_name, sn_name, an_name, kn_name };

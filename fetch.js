@@ -22,13 +22,13 @@ var fs = require("fs");
 //     if (err) throw err;
 // })
 
-const write = (text) => fs.appendFile("mymn_name.txt", text,function(err){
-if(err) throw err;
-});
+// const write = (text) => fs.appendFile("mymn_name.txt", text,function(err){
+// if(err) throw err;
+// });
 
 
 
-write("test")
+// write("test")
 
 const data = require("./fetchData");
 
@@ -53,8 +53,11 @@ const getUid = str => {
   return text
 }
 
-const sutta = "an_name"
-const keys = Object.keys(data[sutta]);
+const sutta = "kn_name"
+const number = 20
+const division = Object.keys(data[sutta][number])[0].substr(0,3);
+// const keys = Object.keys(data[sutta][number]);
+const keys = Object.keys(data[sutta][number]);
 // console.log(keys.length);
 const urlsAll = keys.map(d=>"https://suttacentral.net/api/suttaplex/" + getUid(d));
 
@@ -104,13 +107,13 @@ Promise.all(urls.map(u=>fetch(u))).then(responses =>
   });
   // console.log(push);
   // write(JSON.stringify(push));
-  fs.writeFileSync(sutta+'.json', JSON.stringify(push), (err) => {
+  fs.writeFileSync('./data/'+division+'-name_translation-en-sujato.json', JSON.stringify(push), (err) => {
       if (err) {
           throw err;
       }
       console.log("JSON data is saved.");
   });
-  fs.writeFileSync(sutta+'-fail.json', JSON.stringify(fail), (err) => {
+  fs.writeFileSync('./data/'+division+'-name_translation-en-sujato-fail.json', JSON.stringify(fail), (err) => {
       if (err) {
           throw err;
       }

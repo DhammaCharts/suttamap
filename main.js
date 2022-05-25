@@ -1,6 +1,8 @@
 // to resize to a power of 2
 // vipsthumbnail sut12.png --size 16384x -o resized-%s.png
 // to make PNGtiles
+// vips dzsave huge.tif mydz --suffix .jpg[Q=90]
+// vips dzsave kn5.png  maptiles11 --centre --suffix .png
 // vips dzsave resized-sut12.png  maptiles7 --layout google --centre --suffix .png
 // padding problem https://stackoverflow.com/questions/56265393/libvips-and-padding-when-doing-image-pyramids
 // To extend with white
@@ -14,6 +16,7 @@
 // https://openstreetmap.be/en/projects/howto/openlayers.html
 // https://stackoverflow.com/questions/59772207/add-multiple-marker-to-a-vector-layer-efficiently
 // http://harrywood.co.uk/maps/examples/openlayers/marker-popups.view.html
+// vips copy kn.svg[dpi=10,unlimited] kn1.png
 
 // detect device for marker size //
 
