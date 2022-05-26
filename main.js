@@ -2,8 +2,8 @@
 // vipsthumbnail sut12.png --size 16384x -o resized-%s.png
 // to make PNGtiles
 // vips dzsave huge.tif mydz --suffix .jpg[Q=90]
-// vips dzsave kn5.png  maptiles11 --centre --suffix .png
-// vips dzsave resized-sut12.png  maptiles7 --layout google --centre --suffix .png
+// vips dzsave kn5.png  maptiles11 --centre --suffix .png --vips-progress
+// vips dzsave 'kn.svg[scale=15]'  maptiles12 --layout google --centre --suffix .png --vips-progress
 // padding problem https://stackoverflow.com/questions/56265393/libvips-and-padding-when-doing-image-pyramids
 // To extend with white
 // vips gravity sutta.png south-west 8192 8192 --extend white
@@ -17,6 +17,8 @@
 // https://stackoverflow.com/questions/59772207/add-multiple-marker-to-a-vector-layer-efficiently
 // http://harrywood.co.uk/maps/examples/openlayers/marker-popups.view.html
 // vips copy kn.svg[dpi=10,unlimited] kn1.png
+// TIFF tiles
+// https://stackoverflow.com/questions/11948084/vips-is-failing-on-large-image
 
 // detect device for marker size //
 
@@ -146,22 +148,22 @@ for (let i = 0; i < data.length; i++) {
         nameEn : data[i].nameEn
     }))
 
-    fetch('https://suttacentral.net/api/suttaplex/'+data[i].id,{
-            method: "GET",
-            headers: {
-              "Content-type": "application/json;charset=UTF-8"
-            }
-          }
-        )
-        // Handle success
-        .then(response => response.json())  // convert to json
-        .then(json => {
-          if (json[0].translated_title == null) console.log(data[i].id); // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
-        })    //print data to console
-        .catch(err => {
-          // console.log('Request Failed', err); //error details will be in the "err" object
-          // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
-        }); // Catch errors
+    // fetch('https://suttacentral.net/api/suttaplex/'+data[i].id,{
+    //         method: "GET",
+    //         headers: {
+    //           "Content-type": "application/json;charset=UTF-8"
+    //         }
+    //       }
+    //     )
+    //     // Handle success
+    //     .then(response => response.json())  // convert to json
+    //     .then(json => {
+    //       if (json[0].translated_title == null) console.log(data[i].id); // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
+    //     })    //print data to console
+    //     .catch(err => {
+    //       // console.log('Request Failed', err); //error details will be in the "err" object
+    //       // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
+    //     }); // Catch errors
 }
 
 

@@ -83,16 +83,16 @@ const map = new ol.Map({
     new ol.layer.Tile({
       extent: extent,
         source: new ol.source.TileImage({
-          url: 'maptiles10/{z}/{y}/{x}.png'
+          url: 'maptiles15/{z}/{y}/{x}.tif'
         })
     })
   ],
-  overlays: [overlay],
-  target: 'map',
-  view: new ol.View({
-    center: [0, 0],
-    zoom: 2,
-  }),
+  // overlays: [overlay],
+  // target: 'map',
+  // view: new ol.View({
+  //   center: [0, 0],
+  //   zoom: 2,
+  // }),
   target: 'map',
   view: new ol.View({
     projection: projection,
@@ -179,43 +179,43 @@ map.on("pointermove", function (e) {
     }
 });
 
-map.on('singleclick', function (event) {
-
-    if (map.hasFeatureAtPixel(event.pixel) === true) {
-        var coordinate = event.coordinate;
-        const dataMap = map.getFeaturesAtPixel(event.pixel)[0].A;
-
-        // GET Request.
-        fetch('https://suttacentral.net/api/suttaplex/'+dataMap.id,{
-                method: "GET",
-                headers: {
-                  "Content-type": "application/json;charset=UTF-8",
-                  // "Access-Control-Allow-Origin": "dhammacharts.org",
-                  // "Access-Control-Allow-Methods": "GET",
-                  // "Access-Control-Allow-Headers": "Content-Type"
-                }
-              }
-            )
-            // Handle success
-            .then(response => response.json())  // convert to json
-            .then(json => {
-              // const linkData = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '&emsp;</a>';
-              const linkData = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '"> Data : ' + dataMap.nameEn + '&emsp;</a>';
-              // const linkAPI = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/api/suttaplex/'+dataMap.id+'"> API : '+ dataMap.id+' ' + json[0].translated_title + '&emsp;</a>';
-              const linkAPI = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/api/suttaplex/'+dataMap.id+'"> API : ' + json[0].translated_title + '&emsp;</a>';
-              content.innerHTML = linkData + '<br>' + linkAPI;
-              // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
-              overlay.setPosition(coordinate);
-            })    //print data to console
-            .catch(err => {
-              console.log('Request Failed', err); //error details will be in the "err" object
-              // content.innerHTML = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '&emsp;</a><br>' + "API Fail";
-              content.innerHTML = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '"> Data : ' + dataMap.nameEn + '&emsp;</a><br>' + "API :" + err + ' at: https://suttacentral.net/api/suttaplex/'+dataMap.id;
-              // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
-              overlay.setPosition(coordinate);
-            }); // Catch errors
-    } else {
-        overlay.setPosition(undefined);
-        closer.blur();
-    }
-});
+// map.on('singleclick', function (event) {
+//
+//     if (map.hasFeatureAtPixel(event.pixel) === true) {
+//         var coordinate = event.coordinate;
+//         const dataMap = map.getFeaturesAtPixel(event.pixel)[0].A;
+//
+//         // GET Request.
+//         fetch('https://suttacentral.net/api/suttaplex/'+dataMap.id,{
+//                 method: "GET",
+//                 headers: {
+//                   "Content-type": "application/json;charset=UTF-8",
+//                   // "Access-Control-Allow-Origin": "dhammacharts.org",
+//                   // "Access-Control-Allow-Methods": "GET",
+//                   // "Access-Control-Allow-Headers": "Content-Type"
+//                 }
+//               }
+//             )
+//             // Handle success
+//             .then(response => response.json())  // convert to json
+//             .then(json => {
+//               // const linkData = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '&emsp;</a>';
+//               const linkData = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '"> Data : ' + dataMap.nameEn + '&emsp;</a>';
+//               // const linkAPI = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/api/suttaplex/'+dataMap.id+'"> API : '+ dataMap.id+' ' + json[0].translated_title + '&emsp;</a>';
+//               const linkAPI = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/api/suttaplex/'+dataMap.id+'"> API : ' + json[0].translated_title + '&emsp;</a>';
+//               content.innerHTML = linkData + '<br>' + linkAPI;
+//               // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
+//               overlay.setPosition(coordinate);
+//             })    //print data to console
+//             .catch(err => {
+//               console.log('Request Failed', err); //error details will be in the "err" object
+//               // content.innerHTML = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '&emsp;</a><br>' + "API Fail";
+//               content.innerHTML = '<a style="font-family:sans-serif; text-decoration: none; color: '+dataMap.color+'" target="_blank" href="https://suttacentral.net/' + dataMap.id + '"> Data : ' + dataMap.nameEn + '&emsp;</a><br>' + "API :" + err + ' at: https://suttacentral.net/api/suttaplex/'+dataMap.id;
+//               // content.innerHTML = '<a target="_blank" href="https://suttacentral.net/' + dataMap.id + '">' + dataMap.nameEn + '</a> <br> id = '+ dataMap.id ;
+//               overlay.setPosition(coordinate);
+//             }); // Catch errors
+//     } else {
+//         overlay.setPosition(undefined);
+//         closer.blur();
+//     }
+// });
